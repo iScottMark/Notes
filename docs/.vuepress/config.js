@@ -19,7 +19,7 @@ module.exports = {
   themeConfig: {
     nav: navConf,
     displayAllHeaders: false,
-    lastUpdated: 'Last Updated',
+    lastUpdated: '最后更新于',
     sidebarDepth: 2,
     collapsable: true,
     
