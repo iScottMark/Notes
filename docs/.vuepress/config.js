@@ -1,0 +1,55 @@
+const navConf = require('./config/navConf.js');
+// const sidebarConf = require('./config/sidebarConf.js');
+
+module.exports = {
+  title: '感性的大熊猫',
+  description: '学习笔记',
+  plugins: ['@vuepress/back-to-top',
+            '@vuepress/last-updated',
+            'vuepress-plugin-mathjax',
+            {
+              target: 'chtml',
+              macros: {
+                '*': '\\times',
+              },
+            },
+  ],
+  base: '/Notes/',
+  repo: 'iScottMark/Notes',
+  themeConfig: {
+    nav: navConf,
+    displayAllHeaders: false,
+    lastUpdated: 'Last Updated',
+    sidebarDepth: 2,
+    collapsable: true,
+    
+    // 侧边栏 （又臭又长）
+    sidebar: {
+      // 先导
+      '/guide/': [
+      '',
+      '10-rules',
+      '20-docs',
+      ],
+      /* ------------ */
+      
+      // 日常记录-2021年
+      '/daily/2021/': [
+      '',
+      '10-Jan',
+      ],
+      /* ------------ */
+
+      // Python
+      '/Python/': [
+        '',
+        '2-函数',
+        '3-高级特性',
+        '4-函数式编程',
+      ],
+      /* ------------ */
+
+    },
+    /* =================================================== */
+  }
+}
