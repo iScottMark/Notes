@@ -2,7 +2,7 @@
 
 ## 1 周
 
-### 周一  01/04
+### 周一 01/04
 
 
 
@@ -17,4 +17,25 @@
 - [git emoji 提交规范](https://github.com/hooj0/git-emoji-guide)
 - [git emoji 大全](https://gist.github.com/rxaviers/7360908)
 
-### 周二  01/05
+### 周二 01/05
+
+**PPT**
+
+学习了第 7 - 9 讲
+
+- 插入 ▸ 图标（较新的 Office 版本才支持该功能）
+- 点击幻灯片放映 ▸ 点击设置幻灯片放映 ▸ 勾选放映时不加动画
+- :zap: 一键提取幻灯片中所有素材：
+  - `.pptx` 改为 `.zip`
+  - 解压后中 `./ppt/media` 文件夹里的内容即为所有素材
+- 等分页面（[Ctrl] 拖拽图形即可复制）
+
+**UV 光谱**
+
+- 找到 2 个符合现阶段研究目标的光谱库
+  - [UVBLUE](https://www.inaoep.mx/~modelos/uvblue/uvblue.html)
+  - [2500 - 10500 Å](http://cdsarc.u-strasbg.fr/viz-bin/qcat?J/A+A/442/1127)
+  - :bug: 2500 Å 的下载是个问题
+- :bug: SED 和 Flux 的区别
+
+### 周三 01/06
