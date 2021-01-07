@@ -4,6 +4,8 @@
 
 ### 周一 01/04
 
+---
+
 **PPT**
 
 - 艺术模糊效果 
@@ -15,7 +17,11 @@
 - [git emoji 提交规范](https://github.com/hooj0/git-emoji-guide)
 - [git emoji 大全](https://gist.github.com/rxaviers/7360908)
 
+<br></br>
+
 ### 周二 01/05
+
+---
 
 **PPT**
 
@@ -36,7 +42,11 @@
   - 2500 Å 的下载是个问题 :bug:
 - SED 和 Flux 的区别 :bug:
 
+<br></br>
+
 ### 周三 01/06
+
+---
 
 **2个光谱库**
 
@@ -55,4 +65,30 @@
 
 **改变自我，接受不完美 :muscle:**
 
+<br></br>
+
 ### 周四 01/07
+
+---
+
+**发现一个还不错的 Vuepress 主题**
+
+[vuepress-theme-reco](https://vuepress-theme-reco.recoluan.com/)
+
+**PPT**
+
+- 设置密码
+- 母版设置 :zap:
+- 项目符号
+
+**反思总结**
+
+- 在逐步克服『完美主义』，感觉做事情明显更加专注效率，也更加高了。
+- 对于想要另外了解的东西，应该善用 [Pocket](https://app.getpocket.com/)，直接扔进去，一天结束后再查看。
+- :smile: 
+
+<br></br>
+
+### 周五 01/08
+
+---
