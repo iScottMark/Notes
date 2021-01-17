@@ -4,6 +4,7 @@ module.exports = [
     { text: '日常', link: '/daily/2021/' },
     { text: 'Python', link: '/Python/' },
     { text: 'PPT', link: '/hobby/PPT/' },
+    { text: '收藏', link: '/collections/' },
     
     /*
     { text: '前端', items: [
