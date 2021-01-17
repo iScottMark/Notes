@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: https://vuepress.vuejs.org/hero.png
+heroImage: /hero.png
 heroText: 感性的大熊猫
 tagline: 学习笔记
 actionText: 点击查看 →
