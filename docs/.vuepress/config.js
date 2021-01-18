@@ -54,7 +54,7 @@ module.exports = {
       '/hobby/PPT/': [
         {
           title: 'PPT小白',
-          children: ['green-01', 'green-02']
+          children: ['green-01', 'green-02', 'green-03']
         },     
       ],
       /* ------------ */
