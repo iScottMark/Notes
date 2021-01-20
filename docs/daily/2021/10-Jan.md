@@ -256,3 +256,16 @@
 
 - 搭建好[科研笔记](https://iscottmark.github.io/Astro/)基本框架
 - 完善周报
+
+<br></br>
+
+### 周 01/19
+
+**Python**
+
+- 模块的使用、安装
+- 进一步了解 [Anaconda](https://www.jianshu.com/p/62f155eb6ac5)
+
+**科研**
+
+- 回归本质问题，从观测谱的**实际用途**出发
