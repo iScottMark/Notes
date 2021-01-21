@@ -1,4 +1,4 @@
-const navConf = require('./config/navConf.js');
+const navConf = require('./navConf.js');
 // const sidebarConf = require('./config/sidebarConf.js');
 
 module.exports = {
@@ -59,11 +59,22 @@ module.exports = {
       ],
       /* ------------ */
 
-      // PPT
+      // 资源库
+      '/hobby/library/': [
+        '',
+        'PPT',
+        'toolkit',
+        'course',
+      ],
+      /* ------------ */
+
+      // 收藏
       '/collections/': [
         '',
       ],
       /* ------------ */
+
+     
 
     },
     /* =================================================== */
