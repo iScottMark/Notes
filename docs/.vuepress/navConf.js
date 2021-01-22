@@ -8,4 +8,6 @@ module.exports = [
     { text: '资源库', link: '/hobby/library/' },
   ]},
   { text: '收藏', link: '/collections/' },
+  
+  // { text: '测试', link: '/test/' },
 ];
