@@ -22,65 +22,119 @@ module.exports = {
     lastUpdated: '最后更新于',
     sidebarDepth: 2,
     collapsable: true,
-    
+
     // 侧边栏 （又臭又长）
     sidebar: {
-      // 先导
-      '/guide/': [
-      '',
-      '10-rules',
-      '20-docs',
-      ],
-      /* ------------ */
+      '/guide/': guideSidebarConf(),              // 先导
+      '/daily/2021/': dailySidebarConf(),         // 日常记录-2021年
+      '/Python/': pythonSidebarConf(),            // Python
+      '/hobby/PPT/': PPTSidebarConf(),            // PPT
+      '/hobby/library/': libSidebarConf(),        // 资源库
+      '/collections/': collectionsSidebarConf(),  // 收藏
       
-      // 日常记录-2021年
-      '/daily/2021/': [
-      '',
-      '10-Jan',
-      ],
-      /* ------------ */
-
-      // Python
-      '/Python/': [
-        '',
-        '2-函数',
-        '3-高级特性',
-        '4-函数式编程',
-        '5-模块'
-      ],
-      /* ------------ */
-
-      // PPT
-      '/hobby/PPT/': [
-        {
-          title: '小白篇',
-          children: ['green-01', 'green-02', 'green-03']
-        },
-        {
-          title: '练习篇',
-          children: ['exercise-01', 'others', ]
-        },        
-      ],
-      /* ------------ */
-
-      // 资源库
-      '/hobby/library/': [
-        '',
-        'PPT',
-        'toolkit',
-        'course',
-      ],
-      /* ------------ */
-
-      // 收藏
-      '/collections/': [
-        '',
-      ],
-      /* ------------ */
-
-     
-
+      // '/test/': testSidebarConf(),                //  多个分组嵌套写法
     },
-    /* =================================================== */
   }
 }
+
+
+// 先导
+function guideSidebarConf() {
+  return [
+    '',
+    '10-rules',
+    '20-docs',
+  ];
+}
+
+// 日常
+function dailySidebarConf() {
+  return [
+    '',
+    '10-Jan',
+  ];
+}
+
+// Python
+function pythonSidebarConf() {
+  return [
+    '',
+    '2-函数',
+    '3-高级特性',
+    '4-函数式编程',
+    '5-模块'
+  ];
+}
+
+// PPT
+function PPTSidebarConf() {
+  return [
+    {
+      title: '小白篇',
+      children: ['/hobby/PPT/green/green-01', '/hobby/PPT/green/green-02', '/hobby/PPT/green/green-03']
+    },
+    {
+      title: '模仿篇',
+      children: ['/hobby/PPT/exercise/exercise-01', '/hobby/PPT/exercise/others', ]
+    },  
+  ];
+}
+
+// 资源库
+function libSidebarConf() {
+  return [
+    '',
+    'PPT',
+    'toolkit',
+    'course',
+  ];
+}
+
+// 收藏
+function collectionsSidebarConf() {
+  return [
+    '',
+  ];
+}
+
+
+// 测试
+/*
+function testSidebarConf() {
+  return [
+    {
+      title: 'test1',
+      children: [
+        {
+          title: 'Group1',
+          children: ['/test/test1/Group1/1', ]
+        },
+        {
+          title: 'Group2',
+          children: ['/test/test1/Group2/2', ]
+        },
+      ],
+    }, 
+    
+    {
+      title: 'test2',
+      // isolated: true,
+      // initialIsolatedOpen: true,
+      sidebarDepth: 0,
+      children: [
+        {
+          title: 'Group1',
+          children: ['/test/test2/1', ],
+          sidebarDepth: 0,
+          collapsable: true,
+        },
+        {
+          title: 'Group2',
+          children: ['/test/test2/2', ],
+          sidebarDepth: 0,
+        },
+      ],
+    },
+  ];
+}
+*/
