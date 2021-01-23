@@ -4,6 +4,9 @@ const navConf = require('./navConf.js');
 module.exports = {
   title: '感性的大熊猫',
   description: '学习笔记',
+  head:[     
+    ['link', {rel:'shortcut icon', href:'/favicon.ico'}] 
+  ],
   plugins: ['@vuepress/back-to-top',
             '@vuepress/last-updated',
             'vuepress-plugin-mathjax',
