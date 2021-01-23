@@ -315,3 +315,31 @@
 ### 周六 01/23
 
 ---
+
+**杂**
+
+- 解决 GitHub 图片不显示问题
+  - 参考[此篇文章](https://www.cnblogs.com/stars-one/p/14300463.html)
+  - 补充；`host` 下记得再添加一行 `199.232.96.133  avatars.githubusercontent.com`
+- [favicon](https://baike.baidu.com/item/Favicon)
+
+**科研**
+
+- 整理光谱学相关信息
+
+**Python**
+
+- 6.1.类和实例
+- `__init__` 强制属性的方法
+- 实例可自由绑定属性
+
+**PPT**
+
+- 安装字体后注意重启
+- 模仿一半
+
+<br></br>
+
+### 周日 01/24
+
+---
