@@ -98,6 +98,7 @@ function libSidebarConf() {
 function collectionsSidebarConf() {
   return [
     '',
+    'wired',
   ];
 }
 
