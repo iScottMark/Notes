@@ -355,3 +355,20 @@
 ### 周一 01/25
 
 ---
+
+**Gitee**
+
+- [GitHub 导入至 Gitee](https://gitee.com/help/articles/4284) 
+- [GitHub 同步至 Gitee](https://zhuanlan.zhihu.com/p/71163868)
+- Gitee Page (简单比较下来，除了国内访问速度，发现还是有很多不如 GitHub 的地方，故暂时不考虑)
+
+**科研**
+
+- 或许自己的思路真的错了?应该直接动手做？可是感觉真的好多基本概念都不清楚啊……
+- 这周就抓紧搞一搞吧
+
+<br></br>
+
+### 周二 01/26
+
+---
