@@ -33,6 +33,7 @@ module.exports = {
       '/daily/2021/': dailySidebarConf(),         // 日常记录-2021年
       '/Python/': pythonSidebarConf(),            // Python
       '/hobby/PPT/': PPTSidebarConf(),            // PPT
+      '/hobby/vocal/': vocalSidebarConf(),        // 流行唱法
       '/hobby/library/': libSidebarConf(),        // 资源库
       '/collections/': collectionsSidebarConf(),  // 收藏
       
@@ -82,6 +83,13 @@ function PPTSidebarConf() {
       title: '模仿篇',
       children: ['/hobby/PPT/exercise/exercise-01', '/hobby/PPT/exercise/others', ]
     },  
+  ];
+}
+
+// 流行唱法
+function vocalSidebarConf() {
+  return [
+    '',
   ];
 }
 
