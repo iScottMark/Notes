@@ -9,6 +9,7 @@ module.exports = {
   ],
   plugins: ['@vuepress/back-to-top',
             '@vuepress/last-updated',
+            'flowchart',
             'vuepress-plugin-mathjax',
             {
               target: 'chtml',
