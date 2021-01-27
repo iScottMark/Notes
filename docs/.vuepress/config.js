@@ -81,6 +81,10 @@ function PPTSidebarConf() {
       children: ['/hobby/PPT/green/green-01', '/hobby/PPT/green/green-02', '/hobby/PPT/green/green-03']
     },
     {
+      title: '进阶篇',
+      children: ['/hobby/PPT/advanced/video', ]
+    },  
+    {
       title: '模仿篇',
       children: ['/hobby/PPT/exercise/exercise-01', '/hobby/PPT/exercise/others', ]
     },  
