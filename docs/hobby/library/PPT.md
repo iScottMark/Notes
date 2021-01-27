@@ -1,5 +1,14 @@
 # PPT 素材
 
+## 微软官方帮助文档
+
+- [PowerPoint](https://support.microsoft.com/zh-cn/powerpoint)
+
+## 3D 模型
+
+- [Free 3D](https://free3d.com/)
+- [3D 学哟网](https://www.3dxy.com/)
+
 ## PPT 模板
 
 - [SlideModel](https://slidemodel.com/)
