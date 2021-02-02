@@ -57,6 +57,7 @@ function dailySidebarConf() {
   return [
     '',
     '10-Jan',
+    '20-Feb',
   ];
 }
 
