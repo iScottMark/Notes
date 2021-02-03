@@ -25,7 +25,7 @@ PPT 的核心能力不在于设计，而在于如何通过一些方法把逻辑�
 **构建内容结构的方法 (SCQA 结构)：**
 
 - S: Scene, 背景
-- C: Confict, 冲突
+- C: Conflict, 冲突
 - Q: Question, 问题
 - A: Answer, 答案
 
