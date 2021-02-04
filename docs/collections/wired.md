@@ -1,5 +1,9 @@
 # 奇怪的收藏
 
+- GitHub 上的[开源游戏](https://github.com/leereilly/games)
+
+- 开源的[网页存档工具](https://github.com/ArchiveBox/ArchiveBox)
+
 - 自定义 iOS 14 主屏幕页 [app 图标](https://myicon.io/)
 
 - 很 nice 的 [简历生成器](https://github.com/salomonelli/best-resume-ever)
