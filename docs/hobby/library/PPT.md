@@ -4,6 +4,12 @@
 
 - [PowerPoint](https://support.microsoft.com/zh-cn/powerpoint)
 
+## PPT 插件
+
+- [OneKey_Tools](http://oktools.xyz/) (OK插件)
+- [iSlide](https://www.islide.cc/)
+- [口袋动画](http://papocket.com/)
+
 ## 3D 模型
 
 - [Free 3D](https://free3d.com/)
