@@ -7,6 +7,7 @@
 ## PPT 插件
 
 - [OneKey_Tools](http://oktools.xyz/) (OK插件)
+- [英豪插件](https://addins.cn/yhtools/) 
 - [iSlide](https://www.islide.cc/)
 - [口袋动画](http://papocket.com/)
 
