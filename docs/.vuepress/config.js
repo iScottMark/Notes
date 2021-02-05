@@ -87,7 +87,7 @@ function PPTSidebarConf() {
     },  
     {
       title: '模仿篇',
-      children: ['/hobby/PPT/exercise/exercise-01', '/hobby/PPT/exercise/others', ]
+      children: ['/hobby/PPT/exercise/exercise-01', '/hobby/PPT/exercise/exercise-02', '/hobby/PPT/exercise/others', ]
     },  
   ];
 }
