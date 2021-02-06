@@ -55,3 +55,28 @@
 
 - 多重继承 & MixIn
 
+<br></br>
+
+### 周五 02/05
+
+---
+
+**iSpec * 0.5**
+
+**Python**
+
+- 定制类
+  - 几个常用定制类的使用
+  - 其他定制类的[官方文档](https://docs.python.org/3/reference/datamodel.html#special-method-names)
+- 使用枚举类
+  - 创建
+  - 访问
+  - 重复枚举类
+  - 好处
+
+**PPT**
+
+- 字体选择
+  - 主题风格方面
+  - 版式设计方面
+- 高端奢华珍珠时间轴
