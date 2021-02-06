@@ -80,3 +80,36 @@
   - 主题风格方面
   - 版式设计方面
 - 高端奢华珍珠时间轴
+
+<br></br>
+
+### 周六 02/06
+
+---
+
+**Python**
+
+- 使用元类（由于绝大多数情况下用不到，故未做深入了解）
+
+**iSpec * 1.5**
+
+- :sparkles:『使用』部分的粗翻译已经全部完成啦！
+
+**PPT**
+
+- 颜色搭配 :zap:
+  - 配色原则
+  - 配色方法
+  - 区分内容差异的方法
+  - 善用配色工具
+
+**科研**
+
+- 读论文 - [Synthetic Mid-UV Spectroscopic Indices of Stars](https://ui.adsabs.harvard.edu/abs/2007ApJ...657.1046C/abstract) 
+- 读《今日天文》
+
+<br></br>
+
+### 周日 02/07
+
+---
