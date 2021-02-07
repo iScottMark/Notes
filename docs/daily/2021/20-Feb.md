@@ -113,3 +113,25 @@
 ### 周日 02/07
 
 ---
+
+**IT 方面的证书**
+
+- 网上搜了一圈，得出 3 点结论
+  - 含金量特别高的证书，往往都是项目经验特别丰富的大佬去考；其他证书含金量一般
+  - **就职经历和项目经验远比一些证书来得更为重要**
+  - 信息方面如果想就职政府单位，比较推荐华为或是思科体系下的证书
+- 综上，老老实实考个教资，以及多上手锻炼实际项目
+
+**科研**
+
+- 继续读论文 [Synthetic Mid-UV Spectroscopic Indices of Stars](https://ui.adsabs.harvard.edu/abs/2007ApJ...657.1046C/abstract)
+- 扩充要读的论文
+- 读论文 [Absorption line indices in the UV. I. Empirical and theoretical stellar population models](https://ui.adsabs.harvard.edu/abs/2009A%26A...493..425M/abstract) 摘要部分
+
+<br></br>
+
+## 6 周
+
+### 周一 02/08
+
+---
