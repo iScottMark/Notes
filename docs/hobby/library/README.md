@@ -28,6 +28,8 @@
 - [Freepik](https://www.freepik.com/)
 - [专辑封面](https://bendodson.com/projects/itunes-artwork-finder/)
 - [Game UI](https://www.gameuidatabase.com/)
+- [荷兰国家博物馆](https://www.rijksmuseum.nl/en/rijksstudio)（:zap: 可下载藏品的高清图片）
+- [视觉错觉图片](http://www.ritsumei.ac.jp/~akitaoka/index-e.html)（日本立命馆大学 Akiyoshi 教授的个人主页）
 
 <br></br>
 
