@@ -80,15 +80,18 @@ function PPTSidebarConf() {
   return [
     {
       title: '小白篇',
-      children: ['/hobby/PPT/green/green-01', '/hobby/PPT/green/green-02', '/hobby/PPT/green/green-03']
+      children: ['/hobby/PPT/green/green-01', '/hobby/PPT/green/green-02', '/hobby/PPT/green/green-03'],
+      collapsable: false,
     },
     {
       title: '进阶篇',
-      children: ['/hobby/PPT/advanced/video', ]
+      children: ['/hobby/PPT/advanced/video', ],
+      collapsable: false,
     },  
     {
       title: '模仿篇',
-      children: ['/hobby/PPT/exercise/exercise-01', '/hobby/PPT/exercise/exercise-02', '/hobby/PPT/exercise/others', ]
+      children: ['/hobby/PPT/exercise/exercise-01', '/hobby/PPT/exercise/exercise-02', '/hobby/PPT/exercise/others', ],
+      collapsable: false,
     },  
   ];
 }
