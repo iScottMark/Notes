@@ -10,3 +10,13 @@
 ![](./figures/exercise-02-01.png)
 
 <br></br>
+
+## 02.公司简介时间轴
+
+- 绘制封闭曲线形状
+- 小图标部分上色处理（svg 图取消组合）:zap:
+- 小图标下载[网站](https://www.flaticon.com)
+
+![](./figures/exercise-02-02.png)
+
+<br></br>
