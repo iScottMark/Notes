@@ -2,25 +2,38 @@ const navConf = require('./navConf.js');
 // const sidebarConf = require('./config/sidebarConf.js');
 
 module.exports = {
+  theme: 'reco',
   title: '感性的大熊猫',
   description: '学习笔记',
   head:[     
     ['link', {rel:'shortcut icon', href:'/favicon.ico'}] 
   ],
-  plugins: ['@vuepress/back-to-top',
-            '@vuepress/last-updated',
-            'flowchart',
-            'vuepress-plugin-mathjax',
-            {
-              target: 'chtml',
-              macros: {
-                '*': '\\times',
-              },
-            },
+  plugins: [
+    ['@vuepress/back-to-top'],
+    ['@vuepress/last-updated'],
+    ['flowchart'],
+    ['vuepress-plugin-mathjax',
+      {
+        target: 'chtml',
+        macros: {
+          '*': '\\times',
+        },
+      }
+    ],
   ],
   base: '/Notes/',
   repo: 'iScottMark/Notes',
   themeConfig: {
+    // reco-theme
+    subSidebar: 'auto',  //在所有页面中启用自动生成子侧边栏，原 sidebar 仍然兼容
+    blogConfig: {
+      socialLinks: [     // 信息栏展示社交信息
+        { icon: 'reco-github', link: 'https://github.com/iScottMark' },
+      ],
+    },
+
+
+    // default-theme
     nav: navConf,
     displayAllHeaders: false,
     lastUpdated: '最后更新于',
