@@ -4,6 +4,7 @@
 
 - [阿里巴巴矢量图标库](https://www.iconfont.cn/)
 - [IconPark 图标库](https://iconpark.bytedance.com/)
+- [flaticon](https://www.flaticon.com)
 - [Standart](https://standart.io/)
 - [StreamLine Icons](https://www.streamlineicons.com/)
 - [Font Awesome](https://fontawesome.com/) (前端字体图标网站)
