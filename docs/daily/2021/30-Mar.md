@@ -38,3 +38,13 @@ title: 3 月
 ### 周六 03/06
 
 ---
+
+**Python**
+
+- 调试（`assert`, `logging` 和 IDE 等调试方法）
+- 简单了解了 doctest 以及 `pydoc`
+
+**PPT**
+
+- 内容排版（4 步走）
+- 渐变面积图表
