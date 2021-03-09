@@ -79,3 +79,27 @@ title: 3 月
 **PPT**
 
 - 封面设计公式
+
+<br></br>
+
+### 周二 03/09
+
+---
+
+**科研**
+
+- 理解 `xgboost` 基本用法
+  - `.DMatrix()` 是核心数据结构
+  - `.train()` 用于训练
+  - `.Booster()` 用于提升
+
+**Git**
+
+- 规划 Git 文档结构
+- :bug: : Vuepress 渲染时，如果 md 文档中只有单个（未配对的） html 标签，整篇文档会渲染成空白，如 `<img>`
+
+**其他**
+
+- Pycharm 分段执行代码的 2 种方法（[参考文章](https://cloud.tencent.com/developer/article/1739905)）
+- `#!/usr/bin/python3` 和 `#!/usr/bin/env python3` 的作用（[参考文章](https://www.jianshu.com/p/400c612381dd)）
+- Python 中 `~` 为按位取反运算符，如 `a = [True, False, True]`, `~a` 为 `[False, True, False]` （[参考文章](https://blog.csdn.net/weixin_38981172/article/details/90176525)）
