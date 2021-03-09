@@ -45,6 +45,7 @@ module.exports = {
       '/guide/': guideSidebarConf(),              // 先导
       '/daily/2021/': dailySidebarConf(),         // 日常记录-2021年
       '/Python/': pythonSidebarConf(),            // Python
+      '/Git/': GitSidebarConf(),                  // Git
       '/hobby/PPT/': PPTSidebarConf(),            // PPT
       '/hobby/vocal/': vocalSidebarConf(),        // 流行唱法
       '/hobby/library/': libSidebarConf(),        // 资源库
@@ -86,6 +87,14 @@ function pythonSidebarConf() {
     '6-面向对象编程',
     '7-面向对象高级编程',
     '8-错误、调试和测试',
+  ];
+}
+
+// Git
+function GitSidebarConf() {
+  return [
+    '',
+    '10-liao',
   ];
 }
 

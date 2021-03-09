@@ -3,6 +3,7 @@ module.exports = [
   { text: '先导', link: '/guide/' },
   { text: '日常', link: '/daily/2021/' },
   { text: 'Python', link: '/Python/' },
+  { text: 'Git', link: '/Git/' },
   { text: '爱好', items: [
     { text: 'PPT', link: '/hobby/PPT/' },
     { text: '流行唱法', link: '/hobby/vocal/' },
