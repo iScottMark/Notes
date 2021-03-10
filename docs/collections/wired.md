@@ -1,6 +1,10 @@
-# 奇怪的收藏
+---
+title: 奇怪的收藏
+---
 
-<br></br>
+- 一款在 Windows 和 Linux 上很棒的截图工具 - [Flameshot](https://github.com/flameshot-org/flameshot)
+
+- 将 Github 变为 VSCode - [github1s](https://github.com/conwnet/github1s)
 
 - 将 EPUB 转为其他格式的[转换器](https://epub.to/)
 
