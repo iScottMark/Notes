@@ -103,3 +103,23 @@ title: 3 月
 - Pycharm 分段执行代码的 2 种方法（[参考文章](https://cloud.tencent.com/developer/article/1739905)）
 - `#!/usr/bin/python3` 和 `#!/usr/bin/env python3` 的作用（[参考文章](https://www.jianshu.com/p/400c612381dd)）
 - Python 中 `~` 为按位取反运算符，如 `a = [True, False, True]`, `~a` 为 `[False, True, False]` （[参考文章](https://blog.csdn.net/weixin_38981172/article/details/90176525)）
+
+<br></br>
+
+### 周三 03/10
+
+--- 
+
+**科研**
+
+- 光谱的预处理有：
+  - 降低分辨率
+  - 采样
+- 将数据集和标签分别写入 2 个 `.csv` 文件中（数据持久化）
+
+**Git**
+
+- 复习廖雪峰 Git 教程，并规范书写格式
+- 注意 2 个命令：
+  - `$ git retore <file>` : 恢复工作区的最新动作 (有点像 `Ctrl` + `Z`)
+  - `$ git merge --no-ff -m "xxx" <branch_name>` : `-m "xxx"` 参数可直接进行 ` $ git commit` 操作
