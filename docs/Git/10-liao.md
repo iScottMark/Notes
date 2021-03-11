@@ -296,3 +296,7 @@ Deleted branch feature-vulcan (was 287773e).
 3. 如果 `$ git pull` 提示 `no tracking information`，则说明本地分支和远程分支的链接关系没有创建，用 `$ git branch --set-upstream-to=origin/remote_branch  your_branch` 建立链接关系；
 4. 如果合并有冲突，则解决冲突，并在本地提交；
 5. 没有冲突或者解决掉冲突后，再用 `$ git push origin <branch-name>` 推送就能成功！
+
+### 3.7.Rebase
+
+---
