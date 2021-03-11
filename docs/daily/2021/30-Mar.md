@@ -123,3 +123,23 @@ title: 3 月
 - 注意 2 个命令：
   - `$ git retore <file>` : 恢复工作区的最新动作 (有点像 `Ctrl` + `Z`)
   - `$ git merge --no-ff -m "xxx" <branch_name>` : `-m "xxx"` 参数可直接进行 ` $ git commit` 操作
+
+<br></br>
+
+### 周四 03/11
+
+--- 
+
+**科研**
+
+- `xgboost.save_binary()` *无法*保存 `feature_names` 这个属性
+
+**Git**
+
+- `$ git pull` 命令[详解](https://www.yiibai.com/git/git_pull.html)
+- 建立本地分支与远程分支的链接
+- 多人协作流程
+
+**小结**
+
+- 今晚效率不高
