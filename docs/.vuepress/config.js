@@ -79,14 +79,26 @@ function dailySidebarConf() {
 // Python
 function pythonSidebarConf() {
   return [
-    '',
-    '2-函数',
-    '3-高级特性',
-    '4-函数式编程',
-    '5-模块',
-    '6-面向对象编程',
-    '7-面向对象高级编程',
-    '8-错误、调试和测试',
+    {
+      title: '基础篇',
+      children: [
+        '/Python/10-basic/intro',
+      ],
+      collapsable: true,
+    },
+    {
+      title: '进阶篇',
+      children: [
+        '/Python/20-liao/2-函数',
+        '/Python/20-liao/3-高级特性',
+        '/Python/20-liao/4-函数式编程',
+        '/Python/20-liao/5-模块',
+        '/Python/20-liao/6-面向对象编程',
+        '/Python/20-liao/7-面向对象高级编程',
+        '/Python/20-liao/8-错误、调试和测试',
+      ],
+      collapsable: true,
+    },
   ];
 }
 
