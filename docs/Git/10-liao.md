@@ -238,6 +238,61 @@ $ git stash drop  # 删除stash内容
 
 ---
 
-`restore` `reset` `revert` `checkout`
+开发一个新 feature，最好新建一个分支；
 
-`merge` `rebase`
+如果要丢弃一个没有被合并过的分支，可以通过 `git branch -D <name>` 强行删除。
+
+::: danger
+使用 `-D` 参数，会使得未合并分支的那次提交中的修改全部丢失！谨慎操作！
+:::
+
+**应用场景：**
+
+- 开发一个新特性 *feature-vulcan*
+
+``` bash
+$ git switch -c feature-vulcan
+$ git add vulcan.py
+$ git commit 
+```
+
+- 切换 dev 分支
+
+``` bash
+$ git switch dev
+```
+
+- 此时，老板说经费不足，该特性不开发了，就地销毁
+
+``` bash
+$ git branch -d feature-vulcan
+error: The branch 'feature-vulcan' is not fully merged.
+If you are sure you want to delete it, run 'git branch -D feature-vulcan'.
+```
+
+- Git 会友情提醒“`feature-vulcan` 分支还没有被合并，如果删除，将丢失掉修改” ，若仍要强行删除，则使用 `-D` 参数
+
+``` bash
+$ git branch -D feature-vulcan
+Deleted branch feature-vulcan (was 287773e).
+```
+
+### 3.6.多人协作
+
+---
+
+`$ git remote -v` 查看远程库信息，本地新建的分支如果不推送到远程，对其他人就是不可见的
+
+`$ git push origin branch_name` 从本地推送分支，如果推送失败，先用 `git pull` 抓取远程的新提交
+
+`$ git branch --set-upstream-to=origin/remote_branch  your_branch` 建立本地分支和远程分支的联系（两者名称最好保持一致）
+
+`$ git pull` = `$ git fetch` + `$ git merge` 从远程抓取分支，如果有冲突，要先处理冲突
+
+**多人协作的工作模式：**
+
+1. 首先，可以试图用 `$ git push origin <branch-name>` 推送自己的修改；
+2. 如果推送失败，则因为远程分支比你的本地更新，需要先用 `$ git pull` 试图合并；
+3. 如果 `$ git pull` 提示 `no tracking information`，则说明本地分支和远程分支的链接关系没有创建，用 `$ git branch --set-upstream-to=origin/remote_branch  your_branch` 建立链接关系；
+4. 如果合并有冲突，则解决冲突，并在本地提交；
+5. 没有冲突或者解决掉冲突后，再用 `$ git push origin <branch-name>` 推送就能成功！
