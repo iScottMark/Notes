@@ -143,3 +143,24 @@ title: 3 月
 **小结**
 
 - 今晚效率不高
+
+<br></br>
+
+### 周五 03/12
+
+--- 
+
+**科研**
+
+- 代码完善，详情看 Git 提交历史以及 Project
+- 代码部分的详细完成内容将不再在“日常”中，转至 Project，其他照旧
+
+**Git**
+
+- `$ git rebase` 命令详细理解
+- `$ git revert` 用法
+- `$ git reset` 的 `--soft <commit_id>` 和 `--hard <commit_id>` 的区别
+
+**其他**
+
+- 将科研代码的具体任务加入至 GitHub Project 中
