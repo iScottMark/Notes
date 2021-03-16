@@ -412,7 +412,7 @@ $ git commit -m "update .gitignore"  # 提交和注释
 $ git push origin master  # 可选，如果需要同步到 remote 上的话
 ```
 
-### 6.2.配置别名 `git alias`
+### 6.2.配置别名
 
 ---
 
