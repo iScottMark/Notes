@@ -197,3 +197,26 @@ title: 3 月
 
 ---
 
+**其他**
+
+活久见，北京沙尘暴过境！
+
+<br></br>
+
+### 周二 03/16
+
+---
+
+**科研**
+
+- 学习 XGBoost 多分类问题的食用方法
+- 对丰度重新编码
+
+**Git**
+
+- 廖雪峰 Git 教程完结 :lollipop:
+- `.gitignore` 重新生效的[方法](https://blog.csdn.net/mingjie1212/article/details/51689606)
+
+**其他**
+
+- 禁用安全启动项，解决了无法进入 Linux Mint 系统的问题
