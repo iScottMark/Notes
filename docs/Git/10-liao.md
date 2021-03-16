@@ -300,3 +300,132 @@ Deleted branch feature-vulcan (was 287773e).
 ### 3.7.Rebase
 
 ---
+
+`$ git rebase` 把分叉的提交历史“整理”成一条直线（拷贝分叉的提交历史，改个 commit_id，然后线性地加在后面），这样看上去更直观。缺点是本地的分叉提交已经被修改（或者说被丢弃）了。
+
+<center><img src='./figures/3-7-rebase.png' align='center'></img></center>
+
+与 `$ git merge` 的比较
+
+<center><img src='./figures/3-7-rebase_merge.png' align='center'></img></center>
+
+<br></br>
+
+## 4.标签管理
+
+发布一个版本时，我们通常先在版本库中打一个标签（tag），这样，就唯一确定了打标签时刻的版本。将来无论什么时候，取某个标签的版本，就是把那个打标签的时刻的历史版本取出来。所以，标签也是版本库的一个快照。
+
+Git 的标签虽然是版本库的快照，但其实它就是指向某个 commit 的指针，创建和删除标签都是瞬间完成的。
+
+tag 就是一个让人容易记住的有意义的名字，它跟某个 commit 绑在一起。
+
+::: tip
+跟分支很像对不对？但是分支可以移动，标签**不**能移动！
+:::
+
+### 4.1.创建标签
+
+---
+
+`$ git tag <tagname>` 在最新提交的 commit 上打标签
+
+`$ git tag <tagname> <commit_id>` 在指定的 commit 上打标签
+
+`$ git tag` 查看所有标签（**注意**：标签不是按时间顺序列出，而是按字母排序的。）
+
+`$ git tag -a <tagname> -m "xxx" <commit_id>` 在指定的 commit 上打标签，并附上说明
+
+`$ git show <tagname>` 查看该 tag 的完整信息和说明
+
+::: warning
+注意：标签总是和某个 commit 挂钩。如果这个 commit 既出现在 master 分支，又出现在 dev 分支，那么在这两个分支上都可以看到这个标签。
+:::
+
+### 4.2.操作标签
+
+---
+
+`$ git tag -d <tagname>` 删除一个本地标签
+
+`$ git push origin <tagname>` 推送本地的一个标签
+
+`$ git push origin --tags` 推送全部未被推送过的本地标签
+
+`$ git push origin :refs/tags/<tagname>` 或 `$ git push origin -d tag <tagname>` 删除一个远程标签
+
+<br></br>
+
+## 5.远程仓库 GitHub 和 Gitee
+
+`$ git remote -v` 查看所有远程仓库信息
+
+`$ git remote rm <repo_name>` 删除远程仓库的关联（默认的 repo_name 为 origin）
+
+同时关联 2 个远程仓库，并重新命名
+
+`$ git remote add github git@github.com:<user_name>/<repo_name>.git `
+
+`$ git remote add gitee git@gitee.com:<user_name>/<repo_name>.git`
+
+同时将本地仓库推送到这两个仓库
+
+`$ git push gitbub master`
+
+`$ git push gitee master`
+
+<br></br>
+
+## 6.自定义 Git
+
+`$ git config` 有很多可以配置的内容
+
+### 6.1.忽略特殊文件 `.gitignore`
+
+---
+
+**忽略文件的原则**
+
+- 忽略操作系统自动生成的文件，比如缩略图等；
+- 忽略编译生成的中间文件、可执行文件等，也就是如果一个文件是通过另一个文件自动生成的，那自动生成的文件就没必要放进版本库，比如 Java 编译产生的 .class 文件；
+- 忽略你自己的带有敏感信息的配置文件，比如存放口令或密码的配置文件。
+
+**配置 `.gitignore` 文件**
+
+```
+filename.py  # 忽略某个文件
+*.py[cod]    # 忽略 .pyc, .pyo, .pyd 文件
+dataset/     # 忽略某个文件夹及其中的所有文件和子文件夹
+*.ini        # 忽略所有拓展名为 .ini 的文件
+.*           # 忽略所有 . 开头的隐藏文件
+```
+
+GitHub `.gitignore` 配置[模板](https://github.com/github/gitignore)
+
+**重新生效 `.gitignore`**
+
+在 `.gitignore` 中加入新的忽略规则后，只能针对那些 untracked 的文件生效，若要对那些已经提交的文件生效，可以执行以下操作：
+
+```bash
+$ git rm -r --cached .  # 清除缓存
+$ git add .  # 重新trace file
+$ git commit -m "update .gitignore"  # 提交和注释
+$ git push origin master  # 可选，如果需要同步到 remote 上的话
+```
+
+### 6.2.配置别名 `git alias`
+
+---
+
+`$ git config --global alias.st status` 将 `$ git status` 简化为 `$ git st`
+
+
+类似地还有:
+
+``` bash
+$ git config --global alias.ci commit
+$ git config --global alias.br branch
+```
+
+::: tip
+笔者将根据个人使用习惯，单独使用一个篇幅来展示更多的“偷懒”配置。
+:::
