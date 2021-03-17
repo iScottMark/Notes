@@ -8,7 +8,7 @@ title: Git 补充
 
 <br></br>
 
-## `$ git checkout` 被取代
+## git checkout 被取代
 
 ### 前言
 
@@ -49,6 +49,8 @@ $ git restore -s <commit_id> <filename> # 将当前工作区的文件切换到�
 ```
 
 > 笔者将会单独用一个篇幅具体阐述 `$ git restore`, `$ git revert` 和 `$ git reset` 的用法和区别。
+
+<br></br>
 
 ## 参考
 
