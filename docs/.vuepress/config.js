@@ -107,6 +107,7 @@ function GitSidebarConf() {
   return [
     '',
     '10-liao',
+    '20-often',
     '60-collect',
   ];
 }
