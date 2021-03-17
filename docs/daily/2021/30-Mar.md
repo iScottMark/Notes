@@ -220,3 +220,29 @@ title: 3 月
 **其他**
 
 - 禁用安全启动项，解决了无法进入 Linux Mint 系统的问题
+
+
+<br></br>
+
+### 周三 03/17
+
+---
+
+**科研**
+
+- 与老师交流，确定了新的实验内容
+- 配置服务器环境
+
+**Git**
+
+- 常用命令清单
+- `git checkout` 被取代
+
+**其他**
+
+- 一篇生活感悟文，个人觉得很不错 -- [我们穷极一生，究竟追寻的是什么？](https://daily.zhihu.com/story/9733969)
+- 学习使用 tmux
+- 再次解决不翻墙无法访问 GitHub 的问题：
+  - 进入该[网址](https://github.com.ipaddress.com/www.github.com)，获取本机最快的连接点 ip
+  - 修改 `C:\Windows\System32\drivers\etc` 路径下 `host` 文件
+  - cmd 中 `ipconfig /flushdns` 命令刷新 DNS
