@@ -1,5 +1,5 @@
 ---
-title: 廖雪峰 Git 教程
+title: Git 廖雪峰教程
 ---
 
 ## 0.Git 简介
