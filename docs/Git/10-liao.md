@@ -397,9 +397,18 @@ filename.py  # 忽略某个文件
 dataset/     # 忽略某个文件夹及其中的所有文件和子文件夹
 *.ini        # 忽略所有拓展名为 .ini 的文件
 .*           # 忽略所有 . 开头的隐藏文件
+!.gitignore  # 不排除 .gitignore
 ```
 
 GitHub `.gitignore` 配置[模板](https://github.com/github/gitignore)
+
+**不忽略某些文件**
+
+`$ git add -f <filename>` 强制添加已经在 `.gitignore` 中被忽略的文件
+
+`$ git check-ignore -v <filename>` 检查 `.gitignore` 中的哪条规则对 'filename' 生效
+
+`!<filename>` 在 `.gitignore` 中写入该内容表示不排除 'filename'
 
 **重新生效 `.gitignore`**
 
