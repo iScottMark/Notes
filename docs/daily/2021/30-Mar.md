@@ -246,3 +246,21 @@ title: 3 月
   - 进入该[网址](https://github.com.ipaddress.com/www.github.com)，获取本机最快的连接点 ip
   - 修改 `C:\Windows\System32\drivers\etc` 路径下 `host` 文件
   - cmd 中 `ipconfig /flushdns` 命令刷新 DNS
+
+
+<br></br>
+
+### 周四 03/18
+
+---
+
+**科研**
+
+- 调试服务器，解决很多坑
+  - DNS 解析问题（开始以为是自己 conda 源的问题，换源无果）
+  - PyCharm SSH 远程连接服务器（汇总成经验贴）
+
+**Git**
+
+- Git 合并分支的几种方法
+- 选择合适的合并方法（搜集了相关资料，并未详细阅读）
