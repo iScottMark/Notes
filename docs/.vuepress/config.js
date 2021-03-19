@@ -109,6 +109,7 @@ function GitSidebarConf() {
     '10-liao',
     '20-often',
     '30-merge',
+    '40-re',
     '60-collect',
   ];
 }
