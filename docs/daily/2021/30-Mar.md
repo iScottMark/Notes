@@ -281,3 +281,9 @@ title: 3 月
 **Git**
 
 - restore, revert, reset 的比较和区别
+
+
+**其他**
+
+- 了解 PyCharm 下的 "Run", "Terminal" 和 "Console" 的区别，参考[此篇博客](https://blog.csdn.net/Onlyone_1314/article/details/109347481)
+- 顺便了解了下日常经常提到的 "Terminal" 和 "Console" 这 2 个概念。有个不恰当的比方：电视机上只有一个控制面板（console）来操作电视的一些行为，但是可以很多个遥控器（terminal）来进行信号的输入。
