@@ -33,7 +33,7 @@ $ git merge test
 
 ``` bash
 $ git switch master
-$ git merge --no-ff test
+$ git merge --no-ff test -m "commit test"  # no-ff 方式合并后提交
 ```
 
 这种合并方法会在 master 分支上新建一个提交节点，从而完成合并。
