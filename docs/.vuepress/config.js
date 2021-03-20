@@ -110,6 +110,7 @@ function GitSidebarConf() {
     '20-often',
     '30-merge',
     '40-re',
+    '50-practice',
     '60-collect',
   ];
 }
