@@ -8,6 +8,19 @@ title: Git 补充
 
 <br></br>
 
+## 常用 Alias 配置
+
+```
+dog = log --all --decorate --oneline --graph
+s = status
+ci = commit -m
+br = branch -a
+sw = switch
+d = diff
+```
+
+<br></br>
+
 ## git checkout 被取代
 
 ### 前言
@@ -54,5 +67,6 @@ $ git restore -s <commit_id> <filename> # 将当前工作区的文件切换到�
 
 ## 参考
 
+- [我常用的 Git 别名](https://juejin.cn/post/6844903976245133326)
 - [工具系列 | git checkout 可替换命令 git switch 和 git restore](https://www.cnblogs.com/tinywan/p/12344267.html)
 - [GIT撤销修改 restore](https://www.jianshu.com/p/dcef204dba74)
