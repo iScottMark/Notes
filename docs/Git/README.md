@@ -6,4 +6,18 @@ title: Git 学习
 
 <br></br>
 
-- 廖雪峰 Git [教程](https://www.liaoxuefeng.com/wiki/896043488029600)
+- Git [廖雪峰教程](https://www.liaoxuefeng.com/wiki/896043488029600)
+
+- Git 补充
+
+- Git 合并分支的 3 种方法
+
+- Git 的 3 个 re- 操作
+
+- Git 最佳实践
+
+- Git 总结
+
+- Git GUI (TODO)
+
+- Git 相关好文
