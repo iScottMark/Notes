@@ -111,7 +111,8 @@ function GitSidebarConf() {
     '30-merge',
     '40-re',
     '50-practice',
-    '60-collect',
+    '60-summary',
+    '80-collect',
   ];
 }
 
