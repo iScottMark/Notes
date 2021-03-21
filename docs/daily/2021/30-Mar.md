@@ -306,3 +306,49 @@ title: 3 月
 **其他**
 
 - 安装硬盘
+
+<br></br>
+
+### 周日 03/21
+
+---
+
+**AB 测试**
+
+- 是一个从生物学实验中由来的概念
+- 指在*同一时间*维度下，对具有*相似属性*的实验对象进行双盲测试（安慰剂/测试用药）
+  - 同一时间规避了时间的影响
+  - 相似属性是为了确保实验条件、环境等的一致
+- 在实际开发中，AB 测试可以是“新-新”，也可以是“新-老”版本之间的测试对比
+- 详情请参照 -- [AB测试，你读这篇文章就够了](https://zhuanlan.zhihu.com/p/159605797)
+
+**Python 环境管理**
+
+- 不了解不知道，一了解，本人已经抓狂，不深究了，等以后具体问题具体分析吧！（目前本人使用 conda + pip 的组合）
+- pyenv: 不是环境管理的工具，是 Python 不同版本的管理工具
+- venv: 自 Python 3.3 版本后，自带的环境管理工具，与 virtualenv 功能类似，只是部分命令不同
+- virtualenv: Python 环境管理工具
+- virtualenvwrapper: 可以看作是 virtualenv 的加强版，解决了 virtualenv 的一些缺点
+- pipenv: 环境 + 包管理工具，具体不了解，但听说原作者已弃坑
+- conda: 环境 + 包管理工具（个人只把它当作环境管理工具，包的安装还是用 pip，毕竟 conda 有些包不全，但 又了解到 conda + pip 的组合会有一些潜在的问题）
+- 参考：
+  - [What is the difference between pyenv, virtualenv, anaconda?](https://stackoverflow.com/questions/38217545/what-is-the-difference-between-pyenv-virtualenv-anaconda) 
+  - [Python 多环境管理总结](https://zhuanlan.zhihu.com/p/106588887)
+  - [只用来管理 Python 版本和虚拟环境，Miniconda 也是一个很好的选择](https://zhuanlan.zhihu.com/p/81321705)
+  - [要不我们还是用回 virtualenv/venv 和 pip 吧](https://zhuanlan.zhihu.com/p/81568689)
+
+**Python 依赖包管理**
+
+- `pip install -r requirements.txt` 使用 requirements.txt 安装依赖
+- 主要有 2 种方法 
+  - `$ pip freeze > requirements.txt`，会列出当前环境下所有的依赖包极其版本号（适合单虚拟环境）
+  - `$ pipreqs . --encoding=utf8 --force`，在当前目录下用 utf8 编码生成项目所需要的依赖包及其版本号，`--force` 参数用来覆盖已经存在的 requirements.txt 文件（需要安装 pipreqs 包）
+- 其他依赖包管理 / 生成方法（以后了解）
+  - pigar
+  - pip-tools
+  - pipdeptree
+  - 参考 -- [Python 依赖库管理：pipreqs、pigar、pip-tools、pipdeptree](https://zhuanlan.zhihu.com/p/89756247)
+
+**Git**
+
+- 全部完成
