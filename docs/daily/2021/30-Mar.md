@@ -349,6 +349,7 @@ title: 3 月
   - pipdeptree
   - 参考 -- [Python 依赖库管理：pipreqs、pigar、pip-tools、pipdeptree](https://zhuanlan.zhihu.com/p/89756247)
 
-**Git**
+**其他**
 
-- 全部完成
+- Git 全部完成
+- 初步了解 Vim
