@@ -73,6 +73,7 @@ function dailySidebarConf() {
     '10-Jan',
     '20-Feb',
     '30-Mar',
+    '40-Apr',
   ];
 }
 
