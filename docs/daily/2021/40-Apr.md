@@ -54,3 +54,15 @@ title: 4 月
 - f: 表示字符串内支持大括号内的 Python 表达式
   - `print(f'{name} done in {time.time() - t0:.2f} s') `
   - `processing done in 1.00 s`
+
+<br></br>
+
+### 周日 04/04
+
+---
+
+**git**
+
+- `$ git rm <file>` 将文件从暂存区和工作区中删除
+- `$ git rm -f <file>` 强制将已经修改且提交至暂存区的文件删除
+- `$ git rm --cached <file>` 把文件从暂存区删除，且保留在工作区，即仅从跟踪清单中删除
