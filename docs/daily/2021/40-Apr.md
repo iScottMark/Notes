@@ -12,10 +12,10 @@ title: 4 月
 
 - 看论文（然鹅儿并没有什么收获）
 - 按照『巨星 & 较低温』的条件过滤筛选出 510 条数据进行 xgb 训练
-  - fluxes - Teff，还是存在老问题
-  - indices - Teff，BL2740，BL3096
-  - fluxes - [M/H]，2550，？
-  - indices - [M/H]，给忘了
+  - fluxes - Teff，该实验组会出现输入的第一个特征总是重要程度最高的问题
+  - indices - Teff，『BL 2740』、『BL 2720』以及 『C 2828-2921』
+  - fluxes - [M/H]，『2550 Å』和『3550 Å』
+  - indices - [M/H]，『BL 2740』、『MgII 2800』 和 『BL 3096』
 
 **其他**
 
