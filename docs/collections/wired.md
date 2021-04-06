@@ -2,6 +2,8 @@
 title: 奇怪的收藏
 ---
 
+- GitHub 无法访问的备用解决方案 - [dev-sidecar](https://github.com/docmirror/dev-sidecar) ([gitee 镜像](https://gitee.com/docmirror/dev-sidecar))
+
 - 以 3D 方式呈现往年的 GitHub 提交历史 - [Skyline](https://skyline.github.com/)
 
 - 一款在 Windows 和 Linux 上很棒的截图工具 - [Flameshot](https://github.com/flameshot-org/flameshot)
