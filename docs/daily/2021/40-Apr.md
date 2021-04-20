@@ -367,3 +367,24 @@ title: 4 月
 
 - 了解转博情况
 - 搜集 js 学习资料
+
+<br></br>
+
+### 周二 04/20
+
+---
+
+**科研**
+
+- 继续了解 MARCS
+- 安装 gfortran 编译器，配置 fortran 编写环境（本地 + WSL）
+
+**JavaScript**
+
+- 基本语法
+- 变量和数据类型
+
+**其他**
+
+- [编译语言、解释语言与脚本语言之间的区别](https://www.jianshu.com/p/604c6352dcb7)
+- [常见拉丁文缩写大全](https://www.hjenglish.com/new/p420980/)
