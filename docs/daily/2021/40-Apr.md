@@ -509,3 +509,20 @@ title: 4 月
 **科研**
 
 - 学习 Fortran
+
+<br></br>
+
+### 周五 04/30
+
+---
+
+**JavaScript**
+
+- 函数定义和调用
+
+**其他**
+
+- 本月复习和总结
+- 下月计划
+- [Github Pull Request的提出与采纳](https://www.cnblogs.com/tcctw/p/12233667.html)
+- [Fortran 语言学习（菜鸟都可以看得懂的入门级教程）](https://blog.csdn.net/xiaorui98/article/details/86600847)
