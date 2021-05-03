@@ -17,10 +17,21 @@ title: 5 月
 
 ---
 
-- 复习 html + css 的第1 - 9 章
+- 复习 html + css 的第 1 - 9 章
 - 和朋友打电话
   - 近期状况
   - 计划完成力度和反馈
   - 下阶段计划
 - [海口云洞图书馆](https://mp.weixin.qq.com/s/Gu0xMcm6pNhc7ma56h8gHg?)
 - 一个将博客做成 Windows 95 的[复古个人网站](https://ash.ms/)
+
+<br></br>
+
+## 18 周
+
+### 周一 05/03
+
+---
+
+- 复习完 html + css
+- 整理北邮人资源
