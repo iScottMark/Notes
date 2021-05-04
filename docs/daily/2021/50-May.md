@@ -35,3 +35,12 @@ title: 5 月
 
 - 复习完 html + css
 - 整理北邮人资源
+
+<br></br>
+
+### 周二 05/04
+
+---
+
+- 整理完 html + css 导图
+- [调节华硕 RGB 的软件 AURA](https://www.asus.com/campaign/aura/cn/)
