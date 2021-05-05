@@ -44,3 +44,14 @@ title: 5 月
 
 - 整理完 html + css 导图
 - [调节华硕 RGB 的软件 AURA](https://www.asus.com/campaign/aura/cn/)
+
+
+<br></br>
+
+### 周三 05/05
+
+---
+
+- 健身计划
+- 和老朋友通电话（老朋友成长啦，也逐渐调整了过来）
+
