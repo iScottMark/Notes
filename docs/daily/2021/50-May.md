@@ -44,6 +44,7 @@ title: 5 月
 
 - 整理完 html + css 导图
 - [调节华硕 RGB 的软件 AURA](https://www.asus.com/campaign/aura/cn/)
+<<<<<<< HEAD
 
 
 <br></br>
@@ -55,3 +56,40 @@ title: 5 月
 - 健身计划
 - 和老朋友通电话（老朋友成长啦，也逐渐调整了过来）
 
+<br></br>
+
+### 周四 05/06
+
+---
+
+**科研**
+
+- Fortran
+  - 1-3 程序的基本构成
+  - 1-4 数学运算
+  - 6-1 程序单元结构
+- Turbospectrum
+  - 大致浏览代码框架
+
+**JavaScript**
+
+- 函数的定义和调用
+  - 定义
+  - 调用
+  - 关键字 `arguments`
+  - `...rest` 参数
+  - `return` 与 `;`
+- 变量作用域与解构赋值
+  - 作用域
+  - 变量提升
+  - 全局作用域
+  - 名字空间
+  - 局部作用域 `let`
+  - 常量 `const`
+  - 解构赋值及其应用场景
+
+**其他**
+
+- 确定健身计划和饮食计划
+- [什么是当代艺术，如何欣赏当代艺术？](https://daily.zhihu.com/story/9735691)
+- [中国有哪些非常唯美漂亮的桥梁？](https://daily.zhihu.com/story/9735624)
