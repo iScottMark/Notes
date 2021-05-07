@@ -93,3 +93,28 @@ title: 5 月
 - 确定健身计划和饮食计划
 - [什么是当代艺术，如何欣赏当代艺术？](https://daily.zhihu.com/story/9735691)
 - [中国有哪些非常唯美漂亮的桥梁？](https://daily.zhihu.com/story/9735624)
+
+<br></br>
+
+### 周五 05/07
+
+---
+
+**科研**
+
+- Fortran
+  - 6-2 过程
+  - 过程的分类和特性
+  - 外部过程（子程序、函数、External 属性和哑属性）
+  - 变元的性质（intent、save）
+
+**JavaScript**
+
+- 方法
+  - `this` 变量（有点类似 python 对象中的 `self`）和坑爹的设计漏洞
+  - 所有函数都自带的 `apply` 和 `call` 方法
+  - 利用 `apply`实现装饰器的功能
+
+**其他**
+
+- 继续完善饮食计划
