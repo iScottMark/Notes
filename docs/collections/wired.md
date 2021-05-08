@@ -2,8 +2,11 @@
 title: 奇怪的收藏
 ---
 
-- 前端大数据可视化工具 - [Visualization Tools for Big Data](https://itnext.io/visualization-tools-for-big-data-c3361241a67e)
+- 不用 JavaScript 来实现较为复杂交互效果的 CSS 技巧 - [CSS Tips](https://markodenic.com/css-tips/)
 
+- Linux 服务器的开源监控服务 - [netdata](https://github.com/netdata/netdata)
+
+- 前端大数据可视化工具 - [Visualization Tools for Big Data](https://itnext.io/visualization-tools-for-big-data-c3361241a67e)
 
 - GitHub 无法访问的备用解决方案 - [dev-sidecar](https://github.com/docmirror/dev-sidecar) ([gitee 镜像](https://gitee.com/docmirror/dev-sidecar))
 
