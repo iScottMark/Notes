@@ -118,3 +118,21 @@ title: 5 月
 **其他**
 
 - 继续完善饮食计划
+
+<br></br>
+
+### 周六 05/08
+
+---
+
+**JavaScript**
+
+- 高阶函数
+  - `map` 和 `reduce`
+  - `filter`
+  - 上面的方法都是针对 `Array` 的，要注意这些方法接收『函数』这一个参数，但都会传递 `Array` 的三个属性 `element`、`index` 和 `self` (数组本身)。因此，要注意接收的『函数』有哪些参数，比如 `parseInt` 函数。
+
+**其他**
+
+- 接种疫苗
+- 最前沿技术领域的新兴技术[列表](https://en.wikipedia.org/wiki/List_of_emerging_technologies)
