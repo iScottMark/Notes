@@ -44,8 +44,6 @@ title: 5 月
 
 - 整理完 html + css 导图
 - [调节华硕 RGB 的软件 AURA](https://www.asus.com/campaign/aura/cn/)
-<<<<<<< HEAD
-
 
 <br></br>
 
@@ -136,3 +134,23 @@ title: 5 月
 
 - 接种疫苗
 - 最前沿技术领域的新兴技术[列表](https://en.wikipedia.org/wiki/List_of_emerging_technologies)
+
+<br></br>
+
+### 周日 05/09
+
+---
+
+**JavaScript**
+
+- 复习上周所学
+- 解构赋值
+  - 嵌套的解构赋值
+  - 给不存在的属性赋上默认值（如，函数的一些参数可以设置默认值）
+  - 替换原属性名，使用新的变量名
+  - 忽略某些属性值
+
+**其他**
+
+- 具体的健身计划
+- 下周计划
