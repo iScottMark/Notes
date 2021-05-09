@@ -2,6 +2,8 @@
 title: 奇怪的收藏
 ---
 
+- 将 PDF，图像，视频，文档，音频等文件转换为其他格式的在线文件转换器 [Convertio](https://convertio.co/zh/)
+
 - 不用 JavaScript 来实现较为复杂交互效果的 CSS 技巧 - [CSS Tips](https://markodenic.com/css-tips/)
 
 - Linux 服务器的开源监控服务 - [netdata](https://github.com/netdata/netdata)
