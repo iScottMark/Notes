@@ -171,3 +171,26 @@ title: 5 月
 
 - 订酒店
 - 健身初练习
+
+<br></br>
+
+### 周二 05/11
+
+---
+
+**科研**
+
+- 找到将 Turbospectrum 封装成 Python 接口的几个程序代码
+- 初步分析，认为 apogee 的代码较为规范，注释完整
+- 继续理解 Turbospectrum 的 3 个函数的使用方法和参数的含义
+
+**JavaScript**
+
+- 高阶函数
+  - `sort` (注意 JavaScript 的 sort 函数默认是将数组内的元素先转成字符类型再进行比较排序的)
+  - `every`
+  - `find`
+  - `findIndex` (注意与 `indexOf` 的区别)
+  - `forEach`
+- 闭包 (反复咀嚼理解)
+- 箭头函数 (ES6 新增，可理解为匿名函数，注意 `this` 在箭头函数里的作用域)
