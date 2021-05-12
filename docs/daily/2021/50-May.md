@@ -194,3 +194,27 @@ title: 5 月
   - `forEach`
 - 闭包 (反复咀嚼理解)
 - 箭头函数 (ES6 新增，可理解为匿名函数，注意 `this` 在箭头函数里的作用域)
+
+<br></br>
+
+### 周三 05/12
+
+---
+
+**科研**
+
+- 分析 `turbosynth` 的源码
+
+**JavaScript**
+
+- generator (ES6 新引入)
+
+**其他**
+
+- Python 支持函数的类型标注 - [Function Annotations](https://www.python.org/dev/peps/pep-3107/)、[在Python中使用类型标注](https://cloud.tencent.com/developer/article/1396354)
+- PyCharm 跳转光标上次查看的位置 `Ctrl` + `Alt` + `←` / `→`
+- [你有哪些想要分享的 PyCharm 使用技巧？](https://www.zhihu.com/question/37787004/answer/75269463)
+  - 格式化代码
+  - 调用方法时查看参数
+  - 搜索一切
+- 视野拓展 - [软件工程的最大难题](http://www.ruanyifeng.com/blog/2021/05/scaling-problem.html)
