@@ -218,3 +218,19 @@ title: 5 月
   - 调用方法时查看参数
   - 搜索一切
 - 视野拓展 - [软件工程的最大难题](http://www.ruanyifeng.com/blog/2021/05/scaling-problem.html)
+
+<br></br>
+
+### 周四 05/13
+
+---
+
+**科研**
+
+- 配置环境 :joy: → :sob:
+
+**JavaScript**
+
+- 标准对象（包装对象）
+- `Date` 对象（注意月份 -1 的坑）
+- 正则表达式 RegExp（初步了解）
