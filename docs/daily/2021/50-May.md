@@ -234,3 +234,23 @@ title: 5 月
 - 标准对象（包装对象）
 - `Date` 对象（注意月份 -1 的坑）
 - 正则表达式 RegExp（初步了解）
+
+<br></br>
+
+### 周四 05/14
+
+---
+
+**科研**
+
+- 搞懂 `babsma`, `bsyn`, `eqwidt` 三个函数的作用
+- 理解参考脚本中的参数
+- 在 c shell 环境下运行起代码
+
+**其他**
+
+- [在Python中使用类型标注](https://cloud.tencent.com/developer/article/1396354)
+- [记住变量类型的三种方式](https://www.kingname.info/2017/06/11/type-hints-in-python3/)
+- [PEP 484 -- Type Hints](https://www.python.org/dev/peps/pep-0484/)
+- [PEP 526 -- Syntax for Variable Annotations](https://www.python.org/dev/peps/pep-0526/)
+- [PEP 3107 -- Function Annotations](https://www.python.org/dev/peps/pep-3107/)
