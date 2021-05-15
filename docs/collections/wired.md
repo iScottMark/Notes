@@ -2,6 +2,10 @@
 title: 奇怪的收藏
 ---
 
+- 海洋中各种声音的[模拟](https://virtocean.com/)
+
+- Spotify 根据你提交的 DNA 信息推送[相关音乐](https://www.bustle.com/p/spotify-ancestrydna-users-can-now-generate-personalized-playlists-based-on-their-dna-heritage-results-11957587)
+
 - 将 PDF，图像，视频，文档，音频等文件转换为其他格式的在线文件转换器 [Convertio](https://convertio.co/zh/)
 
 - 不用 JavaScript 来实现较为复杂交互效果的 CSS 技巧 - [CSS Tips](https://markodenic.com/css-tips/)
