@@ -237,7 +237,7 @@ title: 5 月
 
 <br></br>
 
-### 周四 05/14
+### 周五 05/14
 
 ---
 
@@ -254,3 +254,26 @@ title: 5 月
 - [PEP 484 -- Type Hints](https://www.python.org/dev/peps/pep-0484/)
 - [PEP 526 -- Syntax for Variable Annotations](https://www.python.org/dev/peps/pep-0526/)
 - [PEP 3107 -- Function Annotations](https://www.python.org/dev/peps/pep-3107/)
+
+<br></br>
+
+### 周六 05/15
+
+---
+
+**JavaScript**
+
+- RegExp
+  - 基本语法
+  - 进阶
+  - 切分字符串
+  - 分组
+  - （非）贪婪匹配
+  - 全局搜索 `g`；忽略大小写 `i`；多行匹配 `m`
+- JSON (JavaScript Object Notation)
+  - 序列化 `JSON.stringify()`
+  - 反序列化 `JSON.parse()`
+
+**科研**
+
+- 想好会议报告大纲
