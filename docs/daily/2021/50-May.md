@@ -277,3 +277,15 @@ title: 5 月
 **科研**
 
 - 想好会议报告大纲
+
+<br></br>
+
+### 周日 05/16
+
+---
+
+**其他**
+
+- 一周复习
+- 下周计划
+- [详解python3的新特性：函数注解（Function Annotations）与类型注解](https://blog.csdn.net/ybdesire/article/details/102633291)
