@@ -289,3 +289,27 @@ title: 5 月
 - 一周复习
 - 下周计划
 - [详解python3的新特性：函数注解（Function Annotations）与类型注解](https://blog.csdn.net/ybdesire/article/details/102633291)
+
+<br></br>
+
+## 20 周
+
+### 周一 05/17
+
+---
+
+**科研**
+
+- 拷贝数据文件至服务器
+- 会议报告大纲和 PPT 初准备
+
+**JavaScript**
+
+- 面向对象编程
+  - 创建对象
+  - 原型继承 (道格拉斯法，创建空函数做架桥函数，进一步将该过程封装成 `inherits` 函数)
+  - class 继承 (ES2015 / ES6 标准)
+- JS 世界里的面向对象与其他语言不太一样，应把注意力集中在它的**原型 (prototype)**和**原型链**上
+  - `.prototype`
+  - `.prototype.constructor`
+  - `.__proto__` (非标准用法)
