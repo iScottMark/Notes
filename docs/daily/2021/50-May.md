@@ -313,3 +313,33 @@ title: 5 月
   - `.prototype`
   - `.prototype.constructor`
   - `.__proto__` (非标准用法)
+
+<br></br>
+
+### 周二 05/18
+
+---
+
+**科研**
+
+
+
+**JavaScript**
+
+- 浏览器
+  - 主流浏览器使用的内核
+- 浏览器对象
+  - `window`
+  - `navigator`
+  - `screen`
+  - `location`
+  - `document`
+- 操作 DOM　(很重要)
+  - 更新
+  - 插入
+  - 删除
+
+**其他**
+
+- 理解 DOM 和 DOM 树 - [DOM 是什么？](https://www.zhihu.com/question/34219998/answer/611326215)
+- 了解什么是 [XSS 攻击](https://baike.baidu.com/item/XSS%E6%94%BB%E5%87%BB/954065)
