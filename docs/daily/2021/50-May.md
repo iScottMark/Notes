@@ -400,3 +400,17 @@ title: 5 月
 **其他**
 
 -[dotfiles 新手教程](https://www.jianshu.com/p/7UJapk)
+
+<br></br>
+
+### 周二 05/25
+
+---
+
+**科研**
+
+- 配置环境
+
+**JavaScript**
+
+- 操作文件
