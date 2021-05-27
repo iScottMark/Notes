@@ -2,6 +2,8 @@
 title: 奇怪的收藏
 ---
 
+- [ipv6 测试聚合站](https://ipv6.stream/)
+
 - 海洋中各种声音的[模拟](https://virtocean.com/)
 
 - Spotify 根据你提交的 DNA 信息推送[相关音乐](https://www.bustle.com/p/spotify-ancestrydna-users-can-now-generate-personalized-playlists-based-on-their-dna-heritage-results-11957587)
