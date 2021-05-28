@@ -453,3 +453,24 @@ title: 5 月
   - JavaScript 高级程序设计
   - 犀牛书
 - 纯 html + css 静态页面设计（寻找资料，仿站练习）
+
+<br></br>
+
+### 周五 05/28
+
+---
+
+**科研**
+
+- 设计代码
+
+**其他**
+
+- 完成 zsh 配置总结
+- 完成 jupyter lab 的配置总结
+- `conda activate` 报错解决 - [此博文](https://blog.csdn.net/sdnuwjw/article/details/112448792)
+- `conda` 和 `pip` 的区别
+  - [【python】conda和pip安装库之间的区别](https://blog.csdn.net/FrankieHello/article/details/106083428)
+  - [conda 和 pip 的比较](https://www.jianshu.com/p/5f4888788241)
+  - [知乎 - 请问大神们，pip install 和conda install有什么区别吗？](https://www.zhihu.com/question/395145313)
+  - [Python机器学习库是如何打包并安装的](https://lulaoshi.info/blog/how-python-package.html)
