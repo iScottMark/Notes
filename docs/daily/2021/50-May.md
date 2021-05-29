@@ -474,3 +474,14 @@ title: 5 月
   - [conda 和 pip 的比较](https://www.jianshu.com/p/5f4888788241)
   - [知乎 - 请问大神们，pip install 和conda install有什么区别吗？](https://www.zhihu.com/question/395145313)
   - [Python机器学习库是如何打包并安装的](https://lulaoshi.info/blog/how-python-package.html)
+
+<br></br>
+
+### 周六 05/29
+
+---
+
+**其他**
+
+- 完善并发布两篇配置总结
+- 寻找合适的 html + css 教程
