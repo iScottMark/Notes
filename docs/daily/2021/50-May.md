@@ -75,7 +75,7 @@ title: 5 月
   - 定义
   - 调用
   - 关键字 `arguments`
-  - `...rest` 参数
+  - `...rest` 参数 (ES6)
   - `return` 与 `;`
 - 变量作用域与解构赋值
   - 作用域
@@ -83,7 +83,7 @@ title: 5 月
   - 全局作用域
   - 名字空间
   - 局部作用域 `let`
-  - 常量 `const`
+  - 常量 `const` (ES6)
   - 解构赋值及其应用场景
 
 **其他**
@@ -110,7 +110,7 @@ title: 5 月
 
 - 方法
   - `this` 变量（有点类似 python 对象中的 `self`）和坑爹的设计漏洞
-  - 所有函数都自带的 `apply` 和 `call` 方法
+  - 所有函数都自带的 `apply` 和 `call` 方法，以控制 `this` 的指向
   - 利用 `apply`实现装饰器的功能
 
 **其他**
@@ -399,7 +399,7 @@ title: 5 月
 
 **其他**
 
--[dotfiles 新手教程](https://www.jianshu.com/p/7UJapk)
+- [dotfiles 新手教程](https://www.jianshu.com/p/7UJapk)
 
 <br></br>
 
