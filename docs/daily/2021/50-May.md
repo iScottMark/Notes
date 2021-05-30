@@ -485,3 +485,18 @@ title: 5 月
 
 - 完善并发布两篇配置总结
 - 寻找合适的 html + css 教程
+
+<br></br>
+
+### 周日 05/30
+
+---
+
+**其他**
+
+- 本周复习
+- 本月复习
+- 下周计划
+- 下月计划
+- [不懂艺术的普通人，逛各类画展与艺术展后能得到什么？](https://daily.zhihu.com/story/9736463)
+- [How To Become a Data Engineer](https://khashtamov.com/en/how-to-become-a-data-engineer/)
