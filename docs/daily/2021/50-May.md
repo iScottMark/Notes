@@ -500,3 +500,22 @@ title: 5 月
 - 下月计划
 - [不懂艺术的普通人，逛各类画展与艺术展后能得到什么？](https://daily.zhihu.com/story/9736463)
 - [How To Become a Data Engineer](https://khashtamov.com/en/how-to-become-a-data-engineer/)
+
+<br></br>
+
+## 22 周
+
+### 周一 05/31
+
+---
+
+**科研**
+
+- 继续完善代码
+- 组会
+- 确定文献内容为 StarNet
+
+**其他**
+
+- 找前端课程并学习
+- 《摄影构图》 * 2
