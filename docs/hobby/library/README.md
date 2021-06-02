@@ -5,6 +5,7 @@ title: 图像素材
 ## 图标
 
 - [阿里巴巴矢量图标库](https://www.iconfont.cn/)
+- [icomoon](https://icomoon.io/)
 - [IconPark 图标库](https://iconpark.bytedance.com/)
 - [flaticon](https://www.flaticon.com)
 - [iconic](https://iconic.app/)
