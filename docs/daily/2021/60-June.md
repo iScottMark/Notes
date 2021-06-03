@@ -36,3 +36,20 @@ title: 6 月
 **其他**
 
 - [linux服务器上配置Jupyter notebook与登录时密码无效踩坑](https://blog.csdn.net/lyxleft/article/details/100884104)
+
+<br></br>
+
+### 周四 06/03
+
+---
+
+**科研**
+
+- 熟悉 LAMOST fits 文件基本结构
+- 读文献
+
+**前端**
+
+- shortcut 设计
+  - 版心
+  - 左右各 1 个盒子
