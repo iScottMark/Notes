@@ -108,6 +108,8 @@ title: 6 月
 
 ### 周一 06/07
 
+---
+
 **科研**
 
 - 组会
@@ -120,6 +122,8 @@ title: 6 月
 <br></br>
 
 ### 周二 06/08
+
+---
 
 **科研**
 
@@ -136,3 +140,42 @@ title: 6 月
 
 - [自己拥有一台服务器可以做哪些很酷的事情？](https://www.zhihu.com/question/40854395)
 - [2021 年鸟类摄影比赛](https://www.sciencefocus.com/planet-earth/bird-photography-2021/)
+
+<br></br>
+
+### 周三 06/09
+
+---
+
+**科研**
+
+- 配置 pytorch 环境
+- 参考资料
+  - [实验室服务器(非root用户)深度学习环境配置](https://blog.csdn.net/qq_43473554/article/details/104987481)
+  - [Linux-非Root用户-配置深度学习环境](https://www.cnblogs.com/nrocky/p/13767316.html)
+
+**前端**
+
+- 品优购项目第 6 天
+  - 购物车设计
+  - 重点在于购物数目的盒子的制作（`border-radius`）
+
+**其他**
+
+- linux 常用命令练习 - [You-Dont-Need-GUI](https://github.com/you-dont-need/You-Dont-Need-GUI)
+  - `du`, `df`, `grep`, `rsync`, `stat`, `tree`, `cal`, `bc`, `curl`, `touch`, `cat`, `less`, `top`
+  - `Ctrl` + `R` : Lets you search through previously used commands
+  - `Ctrl` + `W` : Delete the word before the cursor
+  - `Ctrl` + `K` : Clear the line after the cursor
+  - `Ctrl` + `T` : Swap the last two characters before the cursor
+  - `Esc` + `T` : Swap the last two words before the cursor
+  - `Alt` + `F` : Move cursor forward one word on the current line
+  - `Alt` + `B` : Move cursor backward one word on the current line
+- CUDA 版本问题
+  - [Linux上查看已安装的CUDA和cuDNN版本号](https://bbs.huaweicloud.com/blogs/140384)
+  - [nvidia-smi 和 nvcc 结果的版本为何不一致](https://blog.csdn.net/ljp1919/article/details/102640512)
+  - [CUDA Driver Version和Runtime Version不一致](https://blog.csdn.net/qxqxqzzz/article/details/103453413)
+  - [如何查看cudnn当前版本_Linux 和 Windows 查看 CUDA 和 cuDNN 版本](https://blog.csdn.net/weixin_39916758/article/details/111512561)
+- [理清GPU、CUDA、CUDA Toolkit、cuDNN关系以及下载安装](https://blog.csdn.net/qq_42406643/article/details/109545766)
+- [CUDA、CUDNN、CUDA Driver、CUDA Toolkit、NCVV的区别？](https://blog.csdn.net/weixin_45901519/article/details/107673714)
+- [软件版本GA、RC、beta等含义](https://blog.csdn.net/gnail_oug/article/details/79998154)
