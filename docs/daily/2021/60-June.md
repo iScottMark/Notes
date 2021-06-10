@@ -179,3 +179,27 @@ title: 6 月
 - [理清GPU、CUDA、CUDA Toolkit、cuDNN关系以及下载安装](https://blog.csdn.net/qq_42406643/article/details/109545766)
 - [CUDA、CUDNN、CUDA Driver、CUDA Toolkit、NCVV的区别？](https://blog.csdn.net/weixin_45901519/article/details/107673714)
 - [软件版本GA、RC、beta等含义](https://blog.csdn.net/gnail_oug/article/details/79998154)
+
+<br></br>
+
+### 周四 06/10
+
+---
+
+**科研**
+
+- 深度学习
+- 数据准备
+  - `Dataloader` 和 `Dataset`
+  - `Transform`
+
+**前端**
+
+- 品优购项目第 7 天
+  - 思考先于下手写代码
+
+**其他**
+
+- python 字符串格式化的 4 种方式（目前推荐 'f-string' 方式）
+  - [格式化字符串的4种方式](https://zhuanlan.zhihu.com/p/110406030)
+  - [python字符串格式化深入详解（四种方法）](https://blog.csdn.net/qq_27825451/article/details/105652244)
