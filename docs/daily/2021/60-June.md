@@ -203,3 +203,31 @@ title: 6 月
 - python 字符串格式化的 4 种方式（目前推荐 'f-string' 方式）
   - [格式化字符串的4种方式](https://zhuanlan.zhihu.com/p/110406030)
   - [python字符串格式化深入详解（四种方法）](https://blog.csdn.net/qq_27825451/article/details/105652244)
+
+<br></br>
+
+### 周五 06/11
+
+---
+
+**科研**
+
+- PyTorch 深入学习
+- PyTorch 学习导图
+  - 数据准备
+  - 模型构建
+  - 损失函数（计算图 + 自动求导 :zap: 非常重要）
+  - 优化器（梯度清零）
+- 构建自己的数据集（从 `torch.utils.data.Dataset` 类继承，必需改写 `__getitem` 和 `__len__` 方法）
+- [一文解释PyTorch求导相关 (backward, autograd.grad)](https://zhuanlan.zhihu.com/p/279758736)
+
+**前端**
+
+- 品优购项目第 8 天
+- 反思
+
+**其他**
+
+- [Python @classmethod](https://www.runoob.com/python/python-func-classmethod.html)
+- [Python @staticmethod](https://www.runoob.com/python/python-func-staticmethod.html)
+- [中国有哪些值得一去的峡谷？](https://daily.zhihu.com/story/9736906)
