@@ -231,3 +231,17 @@ title: 6 月
 - [Python @classmethod](https://www.runoob.com/python/python-func-classmethod.html)
 - [Python @staticmethod](https://www.runoob.com/python/python-func-staticmethod.html)
 - [中国有哪些值得一去的峡谷？](https://daily.zhihu.com/story/9736906)
+
+<br></br>
+
+### 周六 06/12
+
+---
+
+**科研**
+
+- 构建光谱的数据集（思路整理）
+
+**其他**
+
+- 摄影笔记整理
