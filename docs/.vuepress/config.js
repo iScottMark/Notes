@@ -47,6 +47,7 @@ module.exports = {
       '/Python/': pythonSidebarConf(),            // Python
       '/Git/': GitSidebarConf(),                  // Git
       '/hobby/PPT/': PPTSidebarConf(),            // PPT
+      '/hobby/photography/': phSidebarConf(),      // 摄影
       '/hobby/vocal/': vocalSidebarConf(),        // 流行唱法
       '/hobby/library/': libSidebarConf(),        // 资源库
       '/collections/': collectionsSidebarConf(),  // 收藏
@@ -87,7 +88,7 @@ function pythonSidebarConf() {
       children: [
         '/Python/10-basic/intro',
       ],
-      collapsable: true,
+      collapsable: false,
     },
     {
       title: '进阶篇',
@@ -100,7 +101,7 @@ function pythonSidebarConf() {
         '/Python/20-liao/7-面向对象高级编程',
         '/Python/20-liao/8-错误、调试和测试',
       ],
-      collapsable: true,
+      collapsable: false,
     },
   ];
 }
@@ -116,6 +117,17 @@ function GitSidebarConf() {
     '50-practice',
     '60-summary',
     '80-collect',
+  ];
+}
+
+// 摄影
+function phSidebarConf() {
+  return [
+    {
+      title: '构图',
+      children: ['/hobby/photography/composition/摄影构图'],
+      collapsable: false,
+    },
   ];
 }
 

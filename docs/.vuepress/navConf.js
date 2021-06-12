@@ -5,10 +5,11 @@ module.exports = [
   { text: 'Python', link: '/Python/' },
   { text: 'Git', link: '/Git/' },
   { text: '爱好', items: [
+    { text: '摄影', link: '/hobby/photography/' },
     { text: 'PPT', link: '/hobby/PPT/' },
     { text: '流行唱法', link: '/hobby/vocal/' },
-    { text: '资源库', link: '/hobby/library/' },
   ]},
+  { text: '资源库', link: '/hobby/library/' },
   { text: '收藏', link: '/collections/' },
   
   // { text: '测试', link: '/test/' },
