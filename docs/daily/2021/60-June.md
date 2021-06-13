@@ -246,3 +246,23 @@ title: 6 月
 
 - 摄影笔记整理
 - 完成杂项（购买一些日常所需）
+
+<br></br>
+
+### 周日 06/13
+
+---
+
+**科研**
+
+- 代码推进，完成基本数据集构建
+
+**摄影**
+
+- P10 - 13 课程和笔记
+
+**其他**
+
+- 本周简单复习
+- [解决VScode终端远程连接服务器 zsh 出现乱码的问题](https://blog.csdn.net/DreamHome_S/article/details/105847030)
+- [解决VS Code Remote Development插件无法建立SSH连接的问题](https://zhuanlan.zhihu.com/p/81039716?from_voters_page=true)
