@@ -266,3 +266,26 @@ title: 6 月
 - 本周简单复习
 - [解决VScode终端远程连接服务器 zsh 出现乱码的问题](https://blog.csdn.net/DreamHome_S/article/details/105847030)
 - [解决VS Code Remote Development插件无法建立SSH连接的问题](https://zhuanlan.zhihu.com/p/81039716?from_voters_page=true)
+
+<br />
+
+## 24 周
+
+### 周一 06/14
+
+**科研**
+
+- 代码推进（构建自己的数据集）
+- 发现深度学习用于回归问题的案例相对于分类问题比较少，可参考的较少
+
+**摄影**
+
+- 背景的定义、作用、处理
+
+**其他**
+
+- linux 实际上将『路径』和『分区』解耦，一个分区可以在多个挂载点下，但反之不行；同时还要注意，前面的『分区』指的是存储介质如硬盘的主分区、逻辑分区，要与 linux 『分区』的概念区别开来（如根目录 `/`，交换空间 `swap`，家目录 `/home`）
+  - [linux 下各分区的作用](https://www.zhihu.com/question/454655784/answer/1837098148)
+  - [同一个分区挂载在两个目录下怎么分开？](https://bbs.csdn.net/topics/392303861)
+- `/usr/local/bin` 是给用户放置自己的可执行程序的地方，推荐放在这里，不会被系统升级而覆盖同名文件；而 `/usr/bin` 是系统预装的可执行程序，会随着系统升级而改变
+  - [Linux /usr/bin与/usr/local/bin区别](https://www.jianshu.com/p/5de2286b2e97)
