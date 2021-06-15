@@ -2,6 +2,8 @@
 title: 奇怪的收藏
 ---
 
+- [WireGuard Easy](https://github.com/WeeJeWel/wg-easy)
+
 - [ipv6 测试聚合站](https://ipv6.stream/)
 
 - 海洋中各种声音的[模拟](https://virtocean.com/)
