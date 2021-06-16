@@ -307,3 +307,29 @@ title: 6 月
 
 - 空白的定义、作用、处理
 - 运动画面的处理（内部画面运动）
+
+<br />
+
+### 周三 06/16
+
+---
+
+**科研**
+
+- 查资料
+
+**摄影**
+
+- 不同的拍摄角度的作用、特点
+- 正面
+
+**前端**
+
+- 品优购项目第 9 天 (p34-37)
+  - 底部 help 和 版权模块
+
+**其他**
+
+- [雪碧图／精灵图使用教程（CSS Sprites）](https://blog.csdn.net/lp15203883326/article/details/83214044)
+- [webstorm等编译器快速编写HTML/CSS代码的技巧](https://www.cnblogs.com/xiayuhao/p/9000216.html)
+- [摄影师陈漫个人主页](http://chenmaner.com/)
