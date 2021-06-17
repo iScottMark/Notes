@@ -333,3 +333,29 @@ title: 6 月
 - [雪碧图／精灵图使用教程（CSS Sprites）](https://blog.csdn.net/lp15203883326/article/details/83214044)
 - [webstorm等编译器快速编写HTML/CSS代码的技巧](https://www.cnblogs.com/xiayuhao/p/9000216.html)
 - [摄影师陈漫个人主页](http://chenmaner.com/)
+
+<br />
+
+### 周四 06/17
+
+---
+
+**科研**
+
+-  看 starnet 论文和源码
+
+**摄影**
+
+- 侧面
+- 不同拍摄高度的特点和作用
+   - 平视角度
+   - 俯视角度
+
+**前端**
+
+- 品优购项目第 10 天 (p38-41)
+  - 焦点轮播图的制作
+
+**其他**
+
+- [蒙太奇 (Montage) 手法](https://www.zhihu.com/topic/19581688/intro)
