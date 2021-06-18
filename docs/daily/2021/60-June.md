@@ -359,3 +359,25 @@ title: 6 月
 **其他**
 
 - [蒙太奇 (Montage) 手法](https://www.zhihu.com/topic/19581688/intro)
+
+<br />
+
+### 周五 06/18
+
+---
+
+**科研**
+
+- 分析论文代码
+
+**摄影**
+
+- 拍摄高度：仰和顶角度
+- 拍摄距离（远全中近特）
+  - 远景
+  - 全景
+
+**其他**
+
+- 将 frp 服务转移到新的服务器上
+- [linux创建用户并给用户sudo权限](https://blog.csdn.net/wujunlei1595848/article/details/87027871)
