@@ -381,3 +381,14 @@ title: 6 月
 
 - 将 frp 服务转移到新的服务器上
 - [linux创建用户并给用户sudo权限](https://blog.csdn.net/wujunlei1595848/article/details/87027871)
+
+<br />
+
+### 周六 06/19
+
+---
+
+**摄影**
+
+- 中景、近景、特写
+- 线条与人的心理
