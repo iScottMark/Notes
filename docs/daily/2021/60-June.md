@@ -392,3 +392,19 @@ title: 6 月
 
 - 中景、近景、特写
 - 线条与人的心理
+
+<br />
+
+### 周日 06/20
+
+---
+
+**科研**
+
+- 跑通代码
+
+**其他**
+
+- 本周简单复习（未仔细复习摄影和前端所学）
+- [中国空间站手工纸模型](https://axmpaperspacescalemodels.com/index.php/chinese-space-station-model/)
+- [PyTorch 输入数据维度问题](https://stackoverflow.com/questions/57237381/runtimeerror-expected-4-dimensional-input-for-4-dimensional-weight-32-3-3-but)
