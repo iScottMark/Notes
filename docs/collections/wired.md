@@ -2,6 +2,8 @@
 title: 奇怪的收藏
 ---
 
+- 将文字变成带有 MacOS 或 Windows 窗口图片的工具 - [text2image](https://text2image.jaychen.fun/)
+
 - [WireGuard Easy](https://github.com/WeeJeWel/wg-easy)
 
 - [ipv6 测试聚合站](https://ipv6.stream/)
