@@ -408,3 +408,14 @@ title: 6 月
 - 本周简单复习（未仔细复习摄影和前端所学）
 - [中国空间站手工纸模型](https://axmpaperspacescalemodels.com/index.php/chinese-space-station-model/)
 - [PyTorch 输入数据维度问题](https://stackoverflow.com/questions/57237381/runtimeerror-expected-4-dimensional-input-for-4-dimensional-weight-32-3-3-but)
+
+<br />
+
+## 25 周
+
+### 周一 06/21
+
+**其他**
+
+- 体检
+- [有哪些是「真正去过非洲的人」才知道的事？](https://daily.zhihu.com/story/9737266)
