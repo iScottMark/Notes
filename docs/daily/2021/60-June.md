@@ -424,7 +424,7 @@ title: 6 月
 
 <br />
 
-### 周一 06/22
+### 周二 06/22
 
 ---
 
@@ -438,3 +438,32 @@ title: 6 月
 
 - [爱德华·韦斯顿](https://zhuanlan.zhihu.com/p/29634159)
 - 世界航拍第一人 - [亚恩·阿蒂斯-贝特朗](https://zh.wikipedia.org/wiki/%E4%BA%9A%E6%81%A9%C2%B7%E9%98%BF%E8%92%82%E6%96%AF-%E8%B4%9D%E7%89%B9%E6%9C%97)
+
+<br />
+
+### 周三 06/23
+
+---
+
+**科研**
+
+- 分析 StarNet 代码
+- 出现模型 loss 值为 NaN 的可能原因
+  - 模型中间的网络层如池化层的长度选择不合适
+  - 流量值对应的波长不是等步长
+  - 在计算 loss 时，`loss = criterion(outputs, labels)` 中 labels 的 shape 和 outputs 不一致
+  - 标签 teff 没有做 $\mu-\sigma$ 归一化（*最有可能的原因*）
+
+**摄影**
+
+- 色彩与人的心理关系
+- 色彩的象征意义
+- 影响画面色彩的因素
+- 色彩的运用
+- 光线初识
+
+**其他**
+
+- 黑马 CSS 序言
+- [俺爹俺娘](https://movie.douban.com/subject/2266113/)
+- [Linux Commands Cheat Sheet](https://phoenixnap.com/kb/wp-content/uploads/2021/04/Linux-commands-cheat-sheet-by-PhoenixNAP.pdf)
