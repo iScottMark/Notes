@@ -467,3 +467,25 @@ title: 6 月
 - 黑马 CSS 序言
 - [俺爹俺娘](https://movie.douban.com/subject/2266113/)
 - [Linux Commands Cheat Sheet](https://phoenixnap.com/kb/wp-content/uploads/2021/04/Linux-commands-cheat-sheet-by-PhoenixNAP.pdf)
+
+<br />
+
+### 周四 06/24
+
+---
+
+**科研**
+
+- starnet 继续剖析
+- 用 PyTorch 重构 starnet（完成 `# TODO`）
+
+**摄影**
+
+- 室外直射光
+- 一天当中不同时间段光线的特点及应用
+
+**其他**
+
+- 再次开启前端学习（目标一个月完成）
+- [【大家名作】简庆福摄影作品赏](http://www.cpanet.org.cn/detail_news_99050.html)
+- [PyCharm设置完自动上传，却不会自动上传任何内容](https://www.cnblogs.com/jiyu-hlzy/p/11943702.html)
