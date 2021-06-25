@@ -2,6 +2,10 @@
 title: 奇怪的收藏
 ---
 
+- 识别人体动作、手势和面部表情的[ JavaScript 库](https://handsfree.js.org/)
+
+- 图像等平面设计文件的[版本控制工具](https://snowtrack.io/)
+
 - 将文字变成带有 MacOS 或 Windows 窗口图片的工具 - [text2image](https://text2image.jaychen.fun/)
 
 - [WireGuard Easy](https://github.com/WeeJeWel/wg-easy)
