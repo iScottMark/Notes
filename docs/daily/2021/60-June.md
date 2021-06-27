@@ -436,7 +436,7 @@ title: 6 月
 
 **其他**
 
-- [爱德华·韦斯顿](https://zhuanlan.zhihu.com/p/29634159)
+- 《青椒40号》 - [爱德华·韦斯顿](https://zhuanlan.zhihu.com/p/29634159)
 - 世界航拍第一人 - [亚恩·阿蒂斯-贝特朗](https://zh.wikipedia.org/wiki/%E4%BA%9A%E6%81%A9%C2%B7%E9%98%BF%E8%92%82%E6%96%AF-%E8%B4%9D%E7%89%B9%E6%9C%97)
 
 <br />
@@ -517,7 +517,7 @@ title: 6 月
   - 输入数据的维度问题（类比 RGB 图片的 3 通道，需要将 1 维光谱增加一个通道的维度）
   - 深入理解 `Conv1d` 一维卷积的[具体细节](https://pytorch.org/docs/1.9.0/generated/torch.nn.Conv1d.html#torch.nn.Conv1d)
     - `padding` 的方法（v1.9.0 新增 `same` 和 `valid`）
-    - $L_in$ 和 $L_out$ 的计算
+    - $L_{in}$ 和 $L_{out}$ 的计算
   - 会计算『最后一个池化层输出』 or 『第一个全连接层输入』的节点个数
   - 深入理解经过网络前向传播后的输出 shape 和实际标签 shape 的大小含义，并将其调整至一样的 shape，方便求 loss
   - 注意区分分类问题输出的 shape 含义与回归问题的 shape 含义
@@ -533,3 +533,26 @@ title: 6 月
 **其他**
 
 - [微软KMS激活工具 HEU KMS](https://zhuanlan.zhihu.com/p/137108588)
+
+<br />
+
+### 周日 06/27
+
+---
+
+**科研**
+
+- 继续解决 dataloader 加载慢的[问题](https://blog.csdn.net/zhangjipinggom/article/details/107038726)，猜测原因如下：
+  - CPU 占用过高
+  - `Dataset` 类中的 `__getitem__` 方法可能有些步骤耗时严重
+- 在自己的 PC (Win 10) 下搭建 PyTorch 深度学习环境
+- 搭建 cuda 深度学习过程小结 (注意以下安装的工具都有版本之间的依赖关系！)
+  - PyTorch （根据需求，选择下述工具的安装版本；换国内清华镜像源）
+  - Nvidia Driver （必须要有，每个系统上有且只能有一个）
+  - CUDA （通过『修改环境变量』，使得多版本的 CUDA 可以共存）
+  - cuDNN （复制对应版本的文件到 CUDA 的安装路径下）
+
+**其他**
+
+- 本周复习（主要是摄影课程的复习）
+- 下周计划
