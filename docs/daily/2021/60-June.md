@@ -556,3 +556,22 @@ title: 6 月
 
 - 本周复习（主要是摄影课程的复习）
 - 下周计划
+
+<br />
+
+## 26 周
+
+### 周一 06/28
+
+---
+
+**科研**
+
+- 在自己的 PC 上配置 PyTorch 的 CUDA 深度学习环境
+  - [win10安装CUDA和cuDNN的正确姿势](https://zhuanlan.zhihu.com/p/94220564)
+  - [win10下安装多个cuda(cuda9.0和10.0)，并自由切换版本](https://blog.csdn.net/qq_37285386/article/details/106160053)
+- 在自己 PC 上测试自定义 `Dataloader`
+
+**其他**
+
+- [程序员的酒后真言](http://www.ruanyifeng.com/blog/2021/06/drunk-post-of-a-programmer.html)
