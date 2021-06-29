@@ -575,3 +575,19 @@ title: 6 月
 **其他**
 
 - [程序员的酒后真言](http://www.ruanyifeng.com/blog/2021/06/drunk-post-of-a-programmer.html)
+
+
+<br />
+
+### 周二 06/29
+
+---
+
+**科研**
+
+- 解决 `Dataloader` 加载速度慢的问题（详细的解决方案已经写进 Jupyter）
+- （终于解决了 :cry:，折磨了我三天）
+
+**摄影**
+
+- 复习第一章，并回顾照片
