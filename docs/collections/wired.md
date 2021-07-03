@@ -2,6 +2,8 @@
 title: 奇怪的收藏
 ---
 
+- 可以在不同浏览器之间同步书签的插件 - [BookmarkHub](https://github.com/dudor/BookmarkHub)
+
 - 识别人体动作、手势和面部表情的[ JavaScript 库](https://handsfree.js.org/)
 
 - 图像等平面设计文件的[版本控制工具](https://snowtrack.io/)
