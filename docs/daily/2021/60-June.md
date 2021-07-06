@@ -218,7 +218,7 @@ title: 6 月
   - 模型构建
   - 损失函数（计算图 + 自动求导 :zap: 非常重要）
   - 优化器（梯度清零）
-- 构建自己的数据集（从 `torch.utils.data.Dataset` 类继承，必需改写 `__getitem` 和 `__len__` 方法）
+- 构建自己的数据集（从 `torch.utils.data.Dataset` 类继承，必需改写 `__getitem__` 和 `__len__` 方法）
 - [一文解释PyTorch求导相关 (backward, autograd.grad)](https://zhuanlan.zhihu.com/p/279758736)
 
 **前端**
@@ -436,7 +436,7 @@ title: 6 月
 
 **其他**
 
-- 《青椒40号》 - [爱德华·韦斯顿](https://zhuanlan.zhihu.com/p/29634159)
+- 《青椒30号》 - [爱德华·韦斯顿](https://zhuanlan.zhihu.com/p/29634159)
 - 世界航拍第一人 - [亚恩·阿蒂斯-贝特朗](https://zh.wikipedia.org/wiki/%E4%BA%9A%E6%81%A9%C2%B7%E9%98%BF%E8%92%82%E6%96%AF-%E8%B4%9D%E7%89%B9%E6%9C%97)
 
 <br />
