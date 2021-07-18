@@ -297,3 +297,10 @@ title: 7 月
 **其他**
 
 - 高质量的一篇好文 —— [很认真地聊一下911事件](https://daily.zhihu.com/story/9738091?utm_source=pocket_mylist)
+
+<br />
+
+### 周日 07/18
+
+---
+
