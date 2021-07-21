@@ -345,3 +345,30 @@ title: 7 月
   - 5 种定位方式（是否脱标，定位的参照对象）
   - z-index
   - 绝对定位盒子的水平居中
+
+<br />
+
+### 周三 07/21
+
+---
+
+**科研**
+
+- HDF5 数据格式了解（HDF5 是一次性全部塞入内存，所以数据的大小要小于内存）
+  - Group
+  - Dataset
+  - Attribute (Metadata)
+- 查看 APOGEE 的数据
+
+**前端**
+
+- p245 - 254
+- 元素的显示与隐藏
+  - display
+  - visibility
+  - overflow
+- 精灵图
+
+**其他**
+
+- [大规模数据集的读存技巧](https://zhuanlan.zhihu.com/p/336614195)
