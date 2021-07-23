@@ -382,3 +382,18 @@ title: 7 月
 **其他**
 
 - 验机（熟悉操作，安装相关软件）
+
+<br />
+
+### 周五 07/23
+
+---
+
+**科研**
+
+- 数据预处理
+
+**其他**
+
+- 折腾新机器
+- [数据归一化（Feature Scaling）](https://www.cnblogs.com/volcao/p/9089716.html?utm_source=pocket_mylist)
