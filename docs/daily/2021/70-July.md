@@ -397,3 +397,13 @@ title: 7 月
 
 - 折腾新机器
 - [数据归一化（Feature Scaling）](https://www.cnblogs.com/volcao/p/9089716.html?utm_source=pocket_mylist)
+
+<br />
+
+### 周日 07/25
+
+---
+
+**其他**
+
+- 重构学习体系
