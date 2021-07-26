@@ -2,6 +2,10 @@
 title: 奇怪的收藏
 ---
 
+- 一行 CSS 实现全站中文简繁转换[简繁转换](https://www.zhangxinxu.com/wordpress/2021/01/css-simplified-traditional-chinese/?utm_source=pocket_mylist)
+
+- WiFi 信息的二维码生成器 - [WiFi Card](https://wificard.io/)
+
 - 15 个登录 UX 的[设计技巧](https://learnui.design/blog/tips-signup-login-ux.html?utm_source=pocket_mylist)
 
 - 可以在不同浏览器之间同步书签的插件 - [BookmarkHub](https://github.com/dudor/BookmarkHub)
