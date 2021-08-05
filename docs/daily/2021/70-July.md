@@ -540,3 +540,21 @@ title: 7 月
 - 和老师交流
   - 分不同的波段进行训练
   - 对于插值需要拿存在的进行验证
+
+**其他**
+
+- [从豆角开始，做一盘开胃下饭的酸豆角炒肉末](https://daily.zhihu.com/story/9738690)
+- [有哪些以为是重罪，其实是轻罪，判刑很轻的案例？](https://daily.zhihu.com/story/9738699)
+- [常见SCI投稿状态的含义，务必收藏！](https://iseex.github.io/2021-07/SCI-submitting-status/)
+
+<br />
+
+### 周四 08/05
+
+---
+
+**其他**
+
+- 理财计划
+- 确定下一步要干什么
+- [这才是真正的Git——Git内部原理揭秘！](https://zhuanlan.zhihu.com/p/96631135)
