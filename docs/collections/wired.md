@@ -2,6 +2,10 @@
 title: 奇怪的收藏
 ---
 
+- 宇宙飞船对接模拟器 - [SPACEX - ISS Docking Simulator](https://iss-sim.spacex.com/)
+
+- 优秀生产力应用推荐，发现免费可商用的资源 - [那些免费的砖](https://www.thosefree.com/)
+
 - 一行 CSS 实现全站中文简繁转换[简繁转换](https://www.zhangxinxu.com/wordpress/2021/01/css-simplified-traditional-chinese/?utm_source=pocket_mylist)
 
 - WiFi 信息的二维码生成器 - [WiFi Card](https://wificard.io/)
