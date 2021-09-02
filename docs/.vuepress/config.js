@@ -79,6 +79,7 @@ function dailySidebarConf() {
     '60-June',
     '70-July',
     '80-Aug',
+    '90-Sep',
   ];
 }
 
