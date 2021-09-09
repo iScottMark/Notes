@@ -36,3 +36,19 @@ title: 9 月
 
 - [什么算是人生的顶级享受？](https://daily.zhihu.com/story/9739920)
 - [相机镜头的各种滤镜有什么用？](https://daily.zhihu.com/story/9740031)
+
+<br />
+
+### 周四 09/09
+
+---
+
+**科研**
+
+- 整理相关实验思路
+
+**其他**
+
+- 小结，整理计划
+- [副歌为什么叫副歌？副歌部分叫做主歌不是更合适么？](https://daily.zhihu.com/story/9740092)
+- [如何通过「坐地铁」，给孩子做城市地理启蒙？](https://daily.zhihu.com/story/9740054)
