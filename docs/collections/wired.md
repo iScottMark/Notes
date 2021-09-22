@@ -2,6 +2,8 @@
 title: 奇怪的收藏
 ---
 
+- 一个可以制作多个系统启动 U 盘的制作工具 - [Ventoy](https://www.ventoy.net/en/index.html) 
+
 - 宇宙飞船对接模拟器 - [SPACEX - ISS Docking Simulator](https://iss-sim.spacex.com/)
 
 - 优秀生产力应用推荐，发现免费可商用的资源 - [那些免费的砖](https://www.thosefree.com/)
