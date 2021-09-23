@@ -116,3 +116,15 @@ title: 9 月
 - 天啊撸，好久没有更新每天的日志了，要重拾回来
 - [现在有没有区分「的」「地」「得」的必要？](https://daily.zhihu.com/story/9740392)
 - [前端工程师 Samantha 的经验技巧分享](https://www.samanthaming.com/)
+
+<br />
+
+### 周四 09/23
+
+**科研**
+
+- 了解消光相关的知识
+
+**其他**
+
+- [什么是「有效」的关心？](https://daily.zhihu.com/story/9740505)
